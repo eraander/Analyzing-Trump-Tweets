@@ -8,5 +8,5 @@
 
 <!ELEMENT LinkEvent EMPTY>
 
-<!ATTLIST factuality attribute1 (-2 | -1 | 0 | 1 | 2 ) #IMPLIED>
-<!ATTLIST emotion attribute2 (positive | negative | emphatic | neutral ) #IMPLIED>
+<!ATTLIST factuality value (-2 | -1 | 0 | +1 | +2 ) #REQUIRED>
+<!ATTLIST emotion value (positive | negative | emphatic | neutral ) #REQUIRED>
