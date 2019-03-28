@@ -1,0 +1,12 @@
+<!ENTITY name "FactualityHighlighter">
+
+<!-- #PCDATA makes a extend tag-->
+<!ELEMENT event ( #PCDATA )>
+<!ELEMENT source ( #PCDATA )>
+<!ELEMENT factuality ( #PCDATA )>
+<!ELEMENT emotion ( #PCDATA )>
+
+<!ELEMENT LinkEvent EMPTY>
+
+<!ATTLIST factuality attribute1 (-2 | -1 | 0 | 1 | 2 ) #IMPLIED>
+<!ATTLIST emotion attribute2 (positive | negative | emphatic | neutral ) #IMPLIED>
