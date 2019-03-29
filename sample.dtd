@@ -1,13 +1,18 @@
-<!ENTITY name "FactualityHighlighter_v1.0">
+<!ENTITY name "EmotionalFactuality_v1.0">
 
 <!-- #PCDATA makes a extend tag-->
 <!ELEMENT Event ( #PCDATA )>
 <!ELEMENT Source ( #PCDATA )>
-<!ELEMENT Factuality ( #PCDATA )>
 <!ELEMENT Emotion ( #PCDATA )>
 
-<!ELEMENT LinkEvent EMPTY>
-<!ELEMENT LinkSource EMPTY>
+<!ELEMENT LinkSourceToEvent EMPTY>
+<!ATTLIST LinkSourceToEvent relationship ( source | event ) #IMPLIED >
 
-<!ATTLIST Factuality value (-2 | -1 | 0 | +1 | +2 ) #REQUIRED>
+<!ELEMENT LinkSourceToEmotion EMPTY>
+<!ATTLIST LinkSourceToEmotion relationship ( source | emotion ) #IMPLIED >
+
+<!ELEMENT LinkEmotionToEvent EMPTY>
+<!ATTLIST LinkEmotionToEvent relationship ( emotion | event ) #IMPLIED >
+
+<!ATTLIST Event value (-2 | -1 | 0 | 1 | 2 ) #REQUIRED>
 <!ATTLIST Emotion value (positive | negative | emphatic | neutral ) #REQUIRED>
