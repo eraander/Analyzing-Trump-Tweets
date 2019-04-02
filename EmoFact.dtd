@@ -1,0 +1,11 @@
+<!ENTITY name "EmotionalFactuality_v1.0">
+
+<!ELEMENT Event ( #PCDATA )>
+<!ELEMENT Source ( #PCDATA )>
+<!ELEMENT Emotion ( #PCDATA )>
+
+<!ELEMENT Link_Source_Event EMPTY>
+<!ELEMENT Link_Emotion_Event EMPTY>
+
+<!ATTLIST Event value (-2 | -1 | 0 | +1 | +2 ) #REQUIRED>
+<!ATTLIST Emotion value ( positive | negative | neutral ) #REQUIRED>
