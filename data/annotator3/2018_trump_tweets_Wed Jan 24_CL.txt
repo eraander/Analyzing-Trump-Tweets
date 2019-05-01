@@ -1,0 +1,196 @@
+annotation_id|tweet_content|event_text|event_confidence|source|emotion|emotion_value
+956015565776277510|956015565776277510
+Wed Jan 24 04:07:27 +0000 2018
+[Trump]
+Cryin’ Chuck Schumer fully understands, especially after his humiliating defeat, that if there is no Wall, there is no DACA.
+We must have safety and security, together with a strong Military, for our great people!|understands|+2|Trump||
+
+956015565776277510|956015565776277510
+Wed Jan 24 04:07:27 +0000 2018
+[Trump]
+Cryin’ Chuck Schumer fully understands, especially after his humiliating defeat, that if there is no Wall, there is no DACA.
+We must have safety and security, together with a strong Military, for our great people!|safety|+2|Trump||
+
+956015565776277510|956015565776277510
+Wed Jan 24 04:07:27 +0000 2018
+[Trump]
+Cryin’ Chuck Schumer fully understands, especially after his humiliating defeat, that if there is no Wall, there is no DACA.
+We must have safety and security, together with a strong Military, for our great people!|security|+2|Trump||
+
+956015565776277510|956015565776277510
+Wed Jan 24 04:07:27 +0000 2018
+[Trump]
+Cryin’ Chuck Schumer fully understands, especially after his humiliating defeat, that if there is no Wall, there is no DACA.
+We must have safety and security, together with a strong Military, for our great people!|Military|+2|Trump||
+
+955806333667807232|955806333667807232
+Tue Jan 23 14:16:02 +0000 2018
+[Trump]
+Thank you to General John Kelly, who is doing a fantastic job, and all of the Staff and others in the White House, for a job well done.
+Long hours and Fake reporting makes your job more difficult, but it is always great to WIN, and few have won more than us!|Thank|+2|Trump||
+
+955806333667807232|955806333667807232
+Tue Jan 23 14:16:02 +0000 2018
+[Trump]
+Thank you to General John Kelly, who is doing a fantastic job, and all of the Staff and others in the White House, for a job well done.
+Long hours and Fake reporting makes your job more difficult, but it is always great to WIN, and few have won more than us!|difficult|+2|Trump||
+
+955795912374267907|955795912374267907
+Tue Jan 23 13:34:37 +0000 2018
+[Trump]
+Nobody knows for sure that the Republicans &amp; Democrats will be able to reach a deal on DACA by February 8, but everyone will be trying....with a big additional focus put on Military Strength and Border Security.
+The Dems have just learned that a Shutdown is not the answer!|deal|0|Trump||
+
+955795912374267907|955795912374267907
+Tue Jan 23 13:34:37 +0000 2018
+[Trump]
+Nobody knows for sure that the Republicans &amp; Democrats will be able to reach a deal on DACA by February 8, but everyone will be trying....with a big additional focus put on Military Strength and Border Security.
+The Dems have just learned that a Shutdown is not the answer!|trying|+2|Trump||
+
+955795912374267907|955795912374267907
+Tue Jan 23 13:34:37 +0000 2018
+[Trump]
+Nobody knows for sure that the Republicans &amp; Democrats will be able to reach a deal on DACA by February 8, but everyone will be trying....with a big additional focus put on Military Strength and Border Security.
+The Dems have just learned that a Shutdown is not the answer!|learned|+2|Trump||
+
+955795912374267907|955795912374267907
+Tue Jan 23 13:34:37 +0000 2018
+[Trump]
+Nobody knows for sure that the Republicans &amp; Democrats will be able to reach a deal on DACA by February 8, but everyone will be trying....with a big additional focus put on Military Strength and Border Security.
+The Dems have just learned that a Shutdown is not the answer!|answer|-2|Trump||
+
+955771016319590400|955771016319590400
+Tue Jan 23 11:55:42 +0000 2018
+[Trump]
+In one of the biggest stories in a long time, the FBI now says it is missing five months worth of lovers Strzok-Page texts, perhaps 50,000, and all in prime time.
+Wow!|missing|+2|Trump||
+
+955769850022055936|955769850022055936
+Tue Jan 23 11:51:04 +0000 2018
+[Trump]
+In one of the biggest stories in a long time, the FBI says it is now missing five months worth of lovers Strzok - Page texts, perhaps 50,000, all in prime time.
+Wow!|missing|+2|Trump||
+
+955764970590961665|955764970590961665
+Tue Jan 23 11:31:40 +0000 2018
+[Trump]
+Even Crazy Jim Acosta of Fake News CNN agrees: “Trump World and WH sources dancing in end zone: Trump wins again...Schumer and Dems caved...gambled and lost.” Thank you for your honesty Jim!|agrees|+2|Jim Acosta||
+
+955658992793149440|955658992793149440
+Tue Jan 23 04:30:33 +0000 2018
+[Trump]
+Big win for Republicans as Democrats cave on Shutdown.
+Now I want a big win for everyone, including Republicans, Democrats and DACA, but especially for our Great Military and Border Security.
+Should be able to get there.
+See you at the negotiating table!|win|+2|Trump||
+
+955658992793149440|955658992793149440
+Tue Jan 23 04:30:33 +0000 2018
+[Trump]
+Big win for Republicans as Democrats cave on Shutdown.
+Now I want a big win for everyone, including Republicans, Democrats and DACA, but especially for our Great Military and Border Security.
+Should be able to get there.
+See you at the negotiating table!|win|+2|Trump||
+
+955428815777533952|955428815777533952
+Mon Jan 22 13:15:55 +0000 2018
+[Trump]
+Democrats have shut down our government in the interests of their far left base.
+They don’t want to do it but are powerless!|shut down|+2|Trump||
+
+955426609326100480|955426609326100480
+Mon Jan 22 13:07:09 +0000 2018
+[Trump]
+The Democrats are turning down services and security for citizens in favor of services and security for non-citizens.
+Not good!|turning down|+2|Trump||
+
+955249077645643776|955249077645643776
+Mon Jan 22 01:21:42 +0000 2018
+[Trump]
+Thank you to Brad Blakeman on @FoxNews for grading year one of my presidency with an “A”-and likewise to Doug Schoen for the very good grade and statements.
+Working hard!|Thank|+2|Trump||
+
+955056249925750784|955056249925750784
+Sun Jan 21 12:35:28 +0000 2018
+[Trump]
+Great to see how hard Republicans are fighting for our Military and Safety at the Border.
+The Dems just want illegal immigrants to pour into our nation unchecked.
+If stalemate continues, Republicans should go to 51% (Nuclear Option) and vote on real, long term budget, no C.R.’s!|fighting|+2|Trump|Great|positive
+
+955056249925750784|955056249925750784
+Sun Jan 21 12:35:28 +0000 2018
+[Trump]
+Great to see how hard Republicans are fighting for our Military and Safety at the Border.
+The Dems just want illegal immigrants to pour into our nation unchecked.
+If stalemate continues, Republicans should go to 51% (Nuclear Option) and vote on real, long term budget, no C.R.’s!|vote|+2|Trump||
+
+955052436187701248|955052436187701248
+Sun Jan 21 12:20:19 +0000 2018
+[Trump]
+RT @realDonaldTrump: Democrats are holding our Military hostage over their desire to have unchecked illegal immigration.
+Can’t let that hap…|holding|+2|@realDonaldTrump||
+
+955052436187701248|955052436187701248
+Sun Jan 21 12:20:19 +0000 2018
+[Trump]
+RT @realDonaldTrump: Democrats are holding our Military hostage over their desire to have unchecked illegal immigration.
+Can’t let that hap…|over|+2|@realDonaldTrump||
+
+954905101717655552|954905101717655552
+Sun Jan 21 02:34:52 +0000 2018
+[Trump]
+RT @FoxNews: .
+@EricTrump: "My father was elected for one reason, and that's because he actually believes in putting America first, which is…|believes|+2|@EricTrump||
+
+954904669112995840|954904669112995840
+Sun Jan 21 02:33:09 +0000 2018
+[Trump]
+RT @FoxNews: .
+@KellyannePolls: "Since @POTUS took office, 863,000 new jobs were filled by women.
+Over half a million American women have en…|filled|+2|@KellyannePolls||
+
+954904246494916609|954904246494916609
+Sun Jan 21 02:31:28 +0000 2018
+[Trump]
+RT @FoxNews: .
+@davidwebbshow: "Let's look at the calendar.
+It's January 20th.
+DACA expires on March 5th.
+That means this was a construct of…|expires|+2|@davidwebbshow||
+
+954904160016785413|954904160016785413
+Sun Jan 21 02:31:07 +0000 2018
+[Trump]
+RT @FoxNews: .
+@EricTrump: "People have seen a year that's incredible, that's been filled with nothing but the best for our country, America…|seen|+2|@EricTrump||
+
+954904160016785413|954904160016785413
+Sun Jan 21 02:31:07 +0000 2018
+[Trump]
+RT @FoxNews: .
+@EricTrump: "People have seen a year that's incredible, that's been filled with nothing but the best for our country, America…|filled|+2|@EricTrump||
+
+954878124214415360|954878124214415360
+Sun Jan 21 00:47:40 +0000 2018
+[Trump]
+The Trump Administration has terminated more UNNECESSARY Regulation, in just twelve months, than any other Administration has terminated during their full term in office, no matter what the length.
+The good news is, THERE IS MUCH MORE TO COME!|terminated|+2|Trump||
+
+954878124214415360|954878124214415360
+Sun Jan 21 00:47:40 +0000 2018
+[Trump]
+The Trump Administration has terminated more UNNECESSARY Regulation, in just twelve months, than any other Administration has terminated during their full term in office, no matter what the length.
+The good news is, THERE IS MUCH MORE TO COME!|MORE|+2|Trump||
+
+954876269300248576|954876269300248576
+Sun Jan 21 00:40:18 +0000 2018
+[Trump]
+RT @realDonaldTrump: Democrats are far more concerned with Illegal Immigrants than they are with our great Military or Safety at our danger…|concerned|+2|@realDonaldTrump||
+
+954843844402647040|954843844402647040
+Sat Jan 20 22:31:27 +0000 2018
+[Trump]
+Unprecedented success for our Country, in so many ways, since the Election.
+Record Stock Market, Strong on Military, Crime, Borders, &amp; ISIS, Judicial Strength &amp; Numbers, Lowest Unemployment for Women &amp; ALL, Massive Tax Cuts, end of Individual Mandate - and so much more.
+Big 2018!|success|+2|Trump||
+

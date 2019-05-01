@@ -120,7 +120,7 @@ class Parse():
                         else:
                             emotion = ''
                             
-                        f.write(tweet_id + '|' + tweet_content + '|' + event_text + '|' + event_confidence + '|' + source + '|' + emotion + '|' + emotion_value + '\n')
+                        f.write(tweet_id + '|' + tweet_content + '|' + event_text + '|' + event_confidence + '|' + source + '|' + emotion + '|' + emotion_value + '\n\n')
         
         
     
@@ -167,7 +167,7 @@ class Parse():
         return results
         
 if __name__ == '__main__':
-    file_dir = 'data/annotator2'
+    file_dir = 'data/annotator3'
     file_dir = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', file_dir))
     
     parser = Parse()
