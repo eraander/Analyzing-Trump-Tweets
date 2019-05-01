@@ -1,0 +1,237 @@
+annotation_id|tweet_content|event_text|event_confidence|source|emotion|emotion_value
+
+969523385016471552|969523385016471552
+Fri Mar 02 10:42:42 +0000 2018
+[Trump]
+Alex Baldwin, whose dieing mediocre career was saved by his impersonation of me on SNL, now says playing DJT was agony for him.
+Alex, it was also agony for those who were forced to watch.
+You were terrible.
+Bring back Darrell Hammond, much funnier and a far greater talent!|saved|+2|Trump||
+
+969523385016471552|969523385016471552
+Fri Mar 02 10:42:42 +0000 2018
+[Trump]
+Alex Baldwin, whose dieing mediocre career was saved by his impersonation of me on SNL, now says playing DJT was agony for him.
+Alex, it was also agony for those who were forced to watch.
+You were terrible.
+Bring back Darrell Hammond, much funnier and a far greater talent!|playing|+2|Alex Baldwin|agony|negative
+
+969408165308747777|969408165308747777
+Fri Mar 02 03:04:51 +0000 2018
+[Trump]
+Good (Great) meeting in the Oval Office tonight with the NRA!|meeting|+2|Trump|Great|positive
+
+969406846602752000|969406846602752000
+Fri Mar 02 02:59:37 +0000 2018
+[Trump]
+RT @IvankaTrump: My OpEd on the importance of #YouthSports participation and how this Administration is seeking to lift barriers so all our…|OpEd|+2|@IvankaTrump||
+
+969406584534257671|969406584534257671
+Fri Mar 02 02:58:35 +0000 2018
+[Trump]
+RT @Scavino45: “Trump Comes Through — Saves $1.4 Billion On New Air Force One” https://t.co/cN3TAQywpR|Saves|+2|@Scavino45||
+
+969374909209239552|969374909209239552
+Fri Mar 02 00:52:43 +0000 2018
+[Trump]
+Manufacturing growing at the fastest pace in almost two decades!|growing|+2|Trump||
+
+969324283036971009|969324283036971009
+Thu Mar 01 21:31:32 +0000 2018
+[Trump]
+Together, we will face this challenge as a national family with conviction, with unity, and with a commitment to love and support our neighbors in times of dire need.
+Working together, we will defeat this #OpioidEpidemic.
+Full Opioid Summit: https://t.co/qqfeVr4BBf https://t.co/oFvr0DJMEf|face|+2|Trump||
+
+969324283036971009|969324283036971009
+Thu Mar 01 21:31:32 +0000 2018
+[Trump]
+Together, we will face this challenge as a national family with conviction, with unity, and with a commitment to love and support our neighbors in times of dire need.
+Working together, we will defeat this #OpioidEpidemic.
+Full Opioid Summit: https://t.co/qqfeVr4BBf https://t.co/oFvr0DJMEf|defeat|+2|Trump||
+
+969311530733981698|969311530733981698
+Thu Mar 01 20:40:52 +0000 2018
+[Trump]
+“Consumer Confidence in February Highest Since November 2000” https://t.co/UgAJRawExx|Highest|+2|https://t.co/UgAJRawExx||
+
+969277822920470530|969277822920470530
+Thu Mar 01 18:26:55 +0000 2018
+[Trump]
+“Manufacturing in U.S.
+Expands at Fastest Pace Since May 2004” https://t.co/XZkwS8tTml|Expands|+2|https://t.co/XZkwS8tTml||
+
+969272683061022721|969272683061022721
+Thu Mar 01 18:06:30 +0000 2018
+[Trump]
+Unemployment filings are at their lowest level in over 48 years.
+Great news for workers and JOBS, JOBS, JOBS!
+#MAGA https://t.co/SzHTarzfrW|lowest|+2|https://t.co/SzHTarzfrW|Great|positive
+
+969183644756660224|969183644756660224
+Thu Mar 01 12:12:42 +0000 2018
+[Trump]
+Our Steel and Aluminum industries (and many others) have been decimated by decades of unfair trade and bad policy with countries from around the world.
+We must not let our country, companies and workers be taken advantage of any longer.
+We want free, fair and SMART TRADE!|decimated|+2|Trump||
+
+969183644756660224|969183644756660224
+Thu Mar 01 12:12:42 +0000 2018
+[Trump]
+Our Steel and Aluminum industries (and many others) have been decimated by decades of unfair trade and bad policy with countries from around the world.
+We must not let our country, companies and workers be taken advantage of any longer.
+We want free, fair and SMART TRADE!|let|-1|Trump||
+
+969178931369783296|969178931369783296
+Thu Mar 01 11:53:58 +0000 2018
+[Trump]
+Many ideas, some good &amp; some not so good, emerged from our bipartisan meeting on school safety yesterday at the White House.
+Background Checks a big part of conversation.
+Gun free zones are proven targets of killers.
+After many years, a Bill should emerge.
+Respect 2nd Amendment!|emerged|+2|Trump||
+
+969178931369783296|969178931369783296
+Thu Mar 01 11:53:58 +0000 2018
+[Trump]
+Many ideas, some good &amp; some not so good, emerged from our bipartisan meeting on school safety yesterday at the White House.
+Background Checks a big part of conversation.
+Gun free zones are proven targets of killers.
+After many years, a Bill should emerge.
+Respect 2nd Amendment!|emerge|+1|Trump||
+
+968962582374621185|968962582374621185
+Wed Feb 28 21:34:16 +0000 2018
+[Trump]
+It was an honor to welcome bipartisan members of Congress for a discussion on SAFE schools and SAFE communities.
+As we continue to mourn the loss of so many precious young lives in Parkland, we are determined to turn our grief into action.
+Full meeting: https://t.co/tbl94sCM01 https://t.co/TmUMusoR9x|welcome|+2|Trump|honor|positive
+
+968962582374621185|968962582374621185
+Wed Feb 28 21:34:16 +0000 2018
+[Trump]
+It was an honor to welcome bipartisan members of Congress for a discussion on SAFE schools and SAFE communities.
+As we continue to mourn the loss of so many precious young lives in Parkland, we are determined to turn our grief into action.
+Full meeting: https://t.co/tbl94sCM01 https://t.co/TmUMusoR9x|mourn|+2|Trump||
+
+968924154031497226|968924154031497226
+Wed Feb 28 19:01:34 +0000 2018
+[Trump]
+Today we honor Billy Graham as only three private citizens before him have been honored.
+We say a prayer for our country: that all across this land, the Lord will raise up men and women like Billy Graham to spread a message of love and hope to every precious child of God.
+https://t.co/EM4lZUZpX9|honor|+2|Trump||
+
+968924154031497226|968924154031497226
+Wed Feb 28 19:01:34 +0000 2018
+[Trump]
+Today we honor Billy Graham as only three private citizens before him have been honored.
+We say a prayer for our country: that all across this land, the Lord will raise up men and women like Billy Graham to spread a message of love and hope to every precious child of God.
+https://t.co/EM4lZUZpX9|prayer|+2|Trump||
+
+968924154031497226|968924154031497226
+Wed Feb 28 19:01:34 +0000 2018
+[Trump]
+Today we honor Billy Graham as only three private citizens before him have been honored.
+We say a prayer for our country: that all across this land, the Lord will raise up men and women like Billy Graham to spread a message of love and hope to every precious child of God.
+https://t.co/EM4lZUZpX9|raise|+2|Trump||
+
+968917941671612416|968917941671612416
+Wed Feb 28 18:36:53 +0000 2018
+[Trump]
+Starting at a small Bible School in Florida, Billy Graham soon led a nationwide revival.
+From a large tent in Los Angeles, to one hundred thousand people in a single day at Yankee Stadium, to more than two million people at Madison Square Garden over sixteen weeks in 1957... https://t.co/z1vvAemlBP|led|+2|https://t.co/z1vvAemlBP ||
+
+968896168230051850|968896168230051850
+Wed Feb 28 17:10:22 +0000 2018
+[Trump]
+Today, in the center of this great Chamber lies Billy Graham – an Ambassador for Christ who reminded the world of the power of prayer and the gift of God’s grace.
+https://t.co/5aMh8nFPJW|lies|+2|https://t.co/5aMh8nFPJW||
+
+968896168230051850|968896168230051850
+Wed Feb 28 17:10:22 +0000 2018
+[Trump]
+Today, in the center of this great Chamber lies Billy Graham – an Ambassador for Christ who reminded the world of the power of prayer and the gift of God’s grace.
+https://t.co/5aMh8nFPJW|reminded|+2|https://t.co/5aMh8nFPJW||
+
+968856971075051521|968856971075051521
+Wed Feb 28 14:34:37 +0000 2018
+[Trump]
+Why is A.G. Jeff Sessions asking the Inspector General to investigate potentially massive FISA abuse.
+Will take forever, has no prosecutorial power and already late with reports on Comey etc.
+Isn’t the I.G.
+an Obama guy?
+Why not use Justice Department lawyers?
+DISGRACEFUL!|asking|+1|Trump||
+
+968856971075051521|968856971075051521
+Wed Feb 28 14:34:37 +0000 2018
+[Trump]
+Why is A.G. Jeff Sessions asking the Inspector General to investigate potentially massive FISA abuse.
+Will take forever, has no prosecutorial power and already late with reports on Comey etc.
+Isn’t the I.G.
+an Obama guy?
+Why not use Justice Department lawyers?
+DISGRACEFUL!|investigate|+1|Trump||
+
+968850364383596545|968850364383596545
+Wed Feb 28 14:08:21 +0000 2018
+[Trump]
+45 year low on illegal border crossings this year.
+Ice and Border Patrol Agents are doing a great job for our Country.
+MS-13 thugs being hit hard.|job|+2|Trump|great|positive
+
+968850364383596545|968850364383596545
+Wed Feb 28 14:08:21 +0000 2018
+[Trump]
+45 year low on illegal border crossings this year.
+Ice and Border Patrol Agents are doing a great job for our Country.
+MS-13 thugs being hit hard.|hit|+2|Trump||
+
+968825596133478400|968825596133478400
+Wed Feb 28 12:29:56 +0000 2018
+[Trump]
+I have decided that sections of the Wall that California wants built NOW will not be built until the whole Wall is approved.
+Big victory yesterday with ruling from the courts that allows us to proceed.
+OUR COUNTRY MUST HAVE BORDER SECURITY!|decided|+2|Trump||
+
+968825596133478400|968825596133478400
+Wed Feb 28 12:29:56 +0000 2018
+[Trump]
+I have decided that sections of the Wall that California wants built NOW will not be built until the whole Wall is approved.
+Big victory yesterday with ruling from the courts that allows us to proceed.
+OUR COUNTRY MUST HAVE BORDER SECURITY!|ruling|+2|Trump|victory|positive
+
+968825596133478400|968825596133478400
+Wed Feb 28 12:29:56 +0000 2018
+[Trump]
+I have decided that sections of the Wall that California wants built NOW will not be built until the whole Wall is approved.
+Big victory yesterday with ruling from the courts that allows us to proceed.
+OUR COUNTRY MUST HAVE BORDER SECURITY!|built|-2|Trump||
+
+968818810005450752|968818810005450752
+Wed Feb 28 12:02:58 +0000 2018
+[Trump]
+The Heritage Foundation has just stated that 64% of the Trump Agenda is already done, faster than even Ronald Reagan.
+“We’re blown away,” said Thomas Binion of Heritage, President Trump “is very active, very conservative and very effective.
+Huge volume &amp; spectrum of issues.”|done|+2|The Heritage Foundation||
+
+968704442110545923|968704442110545923
+Wed Feb 28 04:28:31 +0000 2018
+[Trump]
+Big legal win today.
+U.S. judge sided with the Trump Administration and rejected the attempt to stop the government from building a great Border Wall on the Southern Border.
+Now this important project can go forward!|win|+2|Trump||
+
+968704442110545923|968704442110545923
+Wed Feb 28 04:28:31 +0000 2018
+[Trump]
+Big legal win today.
+U.S. judge sided with the Trump Administration and rejected the attempt to stop the government from building a great Border Wall on the Southern Border.
+Now this important project can go forward!|sided|+2|Trump||
+
+968704442110545923|968704442110545923
+Wed Feb 28 04:28:31 +0000 2018
+[Trump]
+Big legal win today.
+U.S. judge sided with the Trump Administration and rejected the attempt to stop the government from building a great Border Wall on the Southern Border.
+Now this important project can go forward!|rejected|+2|Trump||
