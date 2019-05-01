@@ -3,47 +3,56 @@ annotation_id|tweet_content|event_text|event_confidence|source|emotion|emotion_v
 Tue Aug 14 11:42:11 +0000 2018
 [Trump]
 Another terrorist attack in London...These animals are crazy and must be dealt with through toughness and strength!|attack|+2|Trump||
+
 1029332350969237504|1029332350969237504
 Tue Aug 14 11:42:11 +0000 2018
 [Trump]
 Another terrorist attack in London...These animals are crazy and must be dealt with through toughness and strength!|dealt with|-1|Trump||
+
 1029329583672307712|1029329583672307712
 Tue Aug 14 11:31:11 +0000 2018
 [Trump]
 When you give a crazed, crying lowlife a break, and give her a job at the White House, I guess it just didn’t work out.
 Good work by General Kelly for quickly firing that dog!|work|-2|Trump||
+
 1029329583672307712|1029329583672307712
 Tue Aug 14 11:31:11 +0000 2018
 [Trump]
 When you give a crazed, crying lowlife a break, and give her a job at the White House, I guess it just didn’t work out.
 Good work by General Kelly for quickly firing that dog!|give|+2|Trump||
+
 1029329583672307712|1029329583672307712
 Tue Aug 14 11:31:11 +0000 2018
 [Trump]
 When you give a crazed, crying lowlife a break, and give her a job at the White House, I guess it just didn’t work out.
 Good work by General Kelly for quickly firing that dog!|firing|+2|Trump||
+
 1029327223269060609|1029327223269060609
 Tue Aug 14 11:21:48 +0000 2018
 [Trump]
 Lou Dobbs: “This cannot go forward...this Special Councel with all of his conflicts, with his 17 Angry Democrats, without any evidence of collusion by the Trump Campaign and Russia.
 The Dems are the ones who should be investigated.” Thank you Lou, so true!|forward|-1|Lou Dobbs||
+
 1029327223269060609|1029327223269060609
 Tue Aug 14 11:21:48 +0000 2018
 [Trump]
 Lou Dobbs: “This cannot go forward...this Special Councel with all of his conflicts, with his 17 Angry Democrats, without any evidence of collusion by the Trump Campaign and Russia.
 The Dems are the ones who should be investigated.” Thank you Lou, so true!|investigated|-2|Lou Dobbs||
+
 1029325115547369472|1029325115547369472
 Tue Aug 14 11:13:26 +0000 2018
 [Trump]
 ....should be shut down.
 The Strzok firing shows that the fundamental underpinnings of the investigation were corrupt.
 It should be shut down by the courts or by honest prosecutors.” Thank you Judicial Watch, I couldn’t have said it better myself!|shut down|-2|Judicial Watch||
+
 1029325115547369472|1029325115547369472
 Tue Aug 14 11:13:26 +0000 2018
 [Trump]
 ....should be shut down.
 The Strzok firing shows that the fundamental underpinnings of the investigation were corrupt.
 It should be shut down by the courts or by honest prosecutors.” Thank you Judicial Watch, I couldn’t have said it better myself!|shut down|-2|Judicial Watch||
+
 1029323499226243072|1029323499226243072
 Tue Aug 14 11:07:00 +0000 2018
 [Trump]
@@ -51,6 +60,7 @@ Tue Aug 14 11:07:00 +0000 2018
 Strzok and others at the FBI should be criminally investigated for the way the conducted this investigation.
 Instead, Mueller is pretending nothing went wrong.
 He used Strzok, he used the Clinton DNC Dossier...the whole thing....|investigated|-2|Trump||
+
 1029323499226243072|1029323499226243072
 Tue Aug 14 11:07:00 +0000 2018
 [Trump]
@@ -58,18 +68,21 @@ Tue Aug 14 11:07:00 +0000 2018
 Strzok and others at the FBI should be criminally investigated for the way the conducted this investigation.
 Instead, Mueller is pretending nothing went wrong.
 He used Strzok, he used the Clinton DNC Dossier...the whole thing....|pretending|+2|Trump||
+
 1029321624603054080|1029321624603054080
 Tue Aug 14 10:59:33 +0000 2018
 [Trump]
 Tom Fitton of Judicial Watch: “The Strzok firing is as much about the Mueller operation as anything else.
 There would be no Mueller Special Councel to investigate so called collusion but for the machinations of Strzok &amp; his colleagues at the top levels of the FBI.
 We know this...|firing|+2|Tom Fitton||
+
 1029321624603054080|1029321624603054080
 Tue Aug 14 10:59:33 +0000 2018
 [Trump]
 Tom Fitton of Judicial Watch: “The Strzok firing is as much about the Mueller operation as anything else.
 There would be no Mueller Special Councel to investigate so called collusion but for the machinations of Strzok &amp; his colleagues at the top levels of the FBI.
 We know this...|Councel|+2|Tom Fitton||
+
 1029185314752000007|1029185314752000007
 Tue Aug 14 01:57:55 +0000 2018
 [Trump]
@@ -77,6 +90,7 @@ Tue Aug 14 01:57:55 +0000 2018
 Omarosa had Zero credibility with the Media (they didn’t want interviews) when she worked in the White House.
 Now that she says bad about me, they will talk to her.
 Fake News!|fired|+2|Trump||
+
 1029185314752000007|1029185314752000007
 Tue Aug 14 01:57:55 +0000 2018
 [Trump]
@@ -84,6 +98,7 @@ Tue Aug 14 01:57:55 +0000 2018
 Omarosa had Zero credibility with the Media (they didn’t want interviews) when she worked in the White House.
 Now that she says bad about me, they will talk to her.
 Fake News!|worked|+2|Trump||
+
 1029185314752000007|1029185314752000007
 Tue Aug 14 01:57:55 +0000 2018
 [Trump]
@@ -91,6 +106,7 @@ Tue Aug 14 01:57:55 +0000 2018
 Omarosa had Zero credibility with the Media (they didn’t want interviews) when she worked in the White House.
 Now that she says bad about me, they will talk to her.
 Fake News!|says|+2|Trump||
+
 1029183344397955074|1029183344397955074
 Tue Aug 14 01:50:05 +0000 2018
 [Trump]
@@ -99,6 +115,7 @@ Tue Aug 14 01:50:05 +0000 2018
 I don’t have that word in my vocabulary, and never have.
 She made it up.
 Look at her MANY recent quotes saying....|NO TAPES|+2|@MarkBurnettTV||
+
 1029183344397955074|1029183344397955074
 Tue Aug 14 01:50:05 +0000 2018
 [Trump]
@@ -107,6 +124,7 @@ Tue Aug 14 01:50:05 +0000 2018
 I don’t have that word in my vocabulary, and never have.
 She made it up.
 Look at her MANY recent quotes saying....|used|-1|Trump||
+
 1029183344397955074|1029183344397955074
 Tue Aug 14 01:50:05 +0000 2018
 [Trump]
@@ -115,6 +133,7 @@ Tue Aug 14 01:50:05 +0000 2018
 I don’t have that word in my vocabulary, and never have.
 She made it up.
 Look at her MANY recent quotes saying....|made|+2|Trump||
+
 1029180132630687745|1029180132630687745
 Tue Aug 14 01:37:19 +0000 2018
 [Trump]
@@ -122,16 +141,19 @@ Scott Walker of Wisconsin is a tremendous Governor who has done incredible thing
 He has my complete &amp; total Endorsement!
 He brought the amazing Foxconn to Wisconsin with its 15,000 Jobs-and so much more.
 Vote for Scott on Tuesday in the Republican Primary!|brought|+2|Trump|amazing|positive
+
 1029158545391054848|1029158545391054848
 Tue Aug 14 00:11:32 +0000 2018
 [Trump]
 “Trump’s foreign policy is actually boosting America’s standing” https://t.co/oC7Xs38uRo|boosting|+2|https://t.co/oC7Xs38uRo||
+
 1029134567356149762|1029134567356149762
 Mon Aug 13 22:36:15 +0000 2018
 [Trump]
 It was my great honor to sign our new Defense Bill into law and to pay tribute to the greatest soldiers in the history of the world: THE U.S. ARMY.
 The National Defense Authorization Act is the most significant investment in our Military and our warfighters in modern history!
 https://t.co/M6VI1c0Sgx|sign|+2|Trump|honor|positive
+
 1029105967068323840|1029105967068323840
 Mon Aug 13 20:42:37 +0000 2018
 [Trump]
@@ -140,6 +162,7 @@ He will make for a great Congressman.
 Pete is strong on crime and borders, loves our Military, Vets and Second Amendment.
 Vote for Pete tomorrow.
 He has my full and total Endorsement!|running|+2|Trump||
+
 1029105967068323840|1029105967068323840
 Mon Aug 13 20:42:37 +0000 2018
 [Trump]
@@ -148,49 +171,59 @@ He will make for a great Congressman.
 Pete is strong on crime and borders, loves our Military, Vets and Second Amendment.
 Vote for Pete tomorrow.
 He has my full and total Endorsement!|Congressman|+1|Trump|great|positive
+
 1029089559710236672|1029089559710236672
 Mon Aug 13 19:37:25 +0000 2018
 [Trump]
 Great to be in Fort Drum, New York with our HEROES!
 https://t.co/Ke54QGZbU7|Fort Drum|+2|Trump|Great|positive
+
 1029069948214288384|1029069948214288384
 Mon Aug 13 18:19:29 +0000 2018
 [Trump]
 Just landed at Fort Drum, New York.
 Looking forward to making a speech about our GREAT HEROES!|landed|+2|Trump||
+
 1029069948214288384|1029069948214288384
 Mon Aug 13 18:19:29 +0000 2018
 [Trump]
 Just landed at Fort Drum, New York.
 Looking forward to making a speech about our GREAT HEROES!|speech|+2|Trump|Looking forward|positive
+
 1029053557176188931|1029053557176188931
 Mon Aug 13 17:14:21 +0000 2018
 [Trump]
 RT @MichaelCohen212: LTo the many dozens of #journalists who called me, questioning @OMAROSA claim in her new book that @POTUS @realDonaldT…|called|+2|@MichaelCohen212||
+
 1029053557176188931|1029053557176188931
 Mon Aug 13 17:14:21 +0000 2018
 [Trump]
 RT @MichaelCohen212: LTo the many dozens of #journalists who called me, questioning @OMAROSA claim in her new book that @POTUS @realDonaldT…|questioning|+2|@MichaelCohen212||
+
 1029052803380076544|1029052803380076544
 Mon Aug 13 17:11:21 +0000 2018
 [Trump]
 Brooks Koepka just won his third Golf Major, and he did it not only with his powerful game, but with his powerful mind.
 He has been a man of steel on the Tour and will have many Victories, including Majors, ahead of him.
 Congrats to Brooks and his great team on a job well done!|won|+2|Trump||
+
 1029038164248338432|1029038164248338432
 Mon Aug 13 16:13:11 +0000 2018
 [Trump]
 Wacky Omarosa already has a fully signed Non-Disclosure Agreement!|Non-Disclosure Agreement|+2|Trump||
+
 1029037282676957185|1029037282676957185
 Mon Aug 13 16:09:41 +0000 2018
 [Trump]
 Just fired Agent Strzok, formerly of the FBI, was in charge of the Crooked Hillary Clinton sham investigation.
 It was a total fraud on the American public and should be properly redone!|fired|+2|Trump||
+
 1029037282676957185|1029037282676957185
 Mon Aug 13 16:09:41 +0000 2018
 [Trump]
 Just fired Agent Strzok, formerly of the FBI, was in charge of the Crooked Hillary Clinton sham investigation.
 It was a total fraud on the American public and should be properly redone!|redone|-2|Trump||
+
 1029036065158557701|1029036065158557701
 Mon Aug 13 16:04:51 +0000 2018
 [Trump]
@@ -199,6 +232,7 @@ The list of bad players in the FBI &amp; DOJ gets longer &amp; longer.
 Based on the fact that Strzok was in charge of the Witch Hunt, will it be dropped?
 It is a total Hoax.
 No Collusion, No Obstruction - I just fight back!|fired|+2|Trump||
+
 1029036065158557701|1029036065158557701
 Mon Aug 13 16:04:51 +0000 2018
 [Trump]
@@ -207,6 +241,7 @@ The list of bad players in the FBI &amp; DOJ gets longer &amp; longer.
 Based on the fact that Strzok was in charge of the Witch Hunt, will it be dropped?
 It is a total Hoax.
 No Collusion, No Obstruction - I just fight back!|dropped|-1|Trump||
+
 1029036065158557701|1029036065158557701
 Mon Aug 13 16:04:51 +0000 2018
 [Trump]
@@ -215,3 +250,4 @@ The list of bad players in the FBI &amp; DOJ gets longer &amp; longer.
 Based on the fact that Strzok was in charge of the Witch Hunt, will it be dropped?
 It is a total Hoax.
 No Collusion, No Obstruction - I just fight back!|fight|+2|Trump||
+
