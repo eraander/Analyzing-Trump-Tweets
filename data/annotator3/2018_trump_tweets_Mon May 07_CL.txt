@@ -1,11 +1,11 @@
-annotation_id|tweet_content|event_text|event_confidence|source|emotion|emotion_value
+annotation_id|tweet_content|event_span|event_text|event_confidence|source|emotion|emotion_span|emotion_value
 993443781281271808|993443781281271808
 Mon May 07 10:53:49 +0000 2018
 [Trump]
 To the great people of West Virginia we have, together, a really great chance to keep making a big difference.
 Problem is, Don Blankenship, currently running for Senate, can’t win the General Election in your State...No way!
 Remember Alabama.
-Vote Rep. Jenkins or A.G. Morrisey!|chance|+2|Trump||
+Vote Rep. Jenkins or A.G. Morrisey!|131~137|chance|+2|Trump|||
 
 993443781281271808|993443781281271808
 Mon May 07 10:53:49 +0000 2018
@@ -13,55 +13,55 @@ Mon May 07 10:53:49 +0000 2018
 To the great people of West Virginia we have, together, a really great chance to keep making a big difference.
 Problem is, Don Blankenship, currently running for Senate, can’t win the General Election in your State...No way!
 Remember Alabama.
-Vote Rep. Jenkins or A.G. Morrisey!|win|-2|Trump||
+Vote Rep. Jenkins or A.G. Morrisey!|236~239|win|-2|Trump|||
 
 992562394051293186|992562394051293186
 Sat May 05 00:31:30 +0000 2018
 [Trump]
 Our high level delegation is on the way back from China where they had long meetings with Chinese leaders and business representatives.
-We will be meeting tomorrow to determine the results, but it is hard for China in that they have become very spoiled with U.S. trade wins!|back|+2|Trump||
+We will be meeting tomorrow to determine the results, but it is hard for China in that they have become very spoiled with U.S. trade wins!|438~442|back|+2|Trump|||
 
 992562394051293186|992562394051293186
 Sat May 05 00:31:30 +0000 2018
 [Trump]
 Our high level delegation is on the way back from China where they had long meetings with Chinese leaders and business representatives.
-We will be meeting tomorrow to determine the results, but it is hard for China in that they have become very spoiled with U.S. trade wins!|meetings|+2|Trump||
+We will be meeting tomorrow to determine the results, but it is hard for China in that they have become very spoiled with U.S. trade wins!|474~482|meetings|+2|Trump|||
 
 992562394051293186|992562394051293186
 Sat May 05 00:31:30 +0000 2018
 [Trump]
 Our high level delegation is on the way back from China where they had long meetings with Chinese leaders and business representatives.
-We will be meeting tomorrow to determine the results, but it is hard for China in that they have become very spoiled with U.S. trade wins!|meeting|+2|Trump||
+We will be meeting tomorrow to determine the results, but it is hard for China in that they have become very spoiled with U.S. trade wins!|545~552|meeting|+2|Trump|||
 
 992562394051293186|992562394051293186
 Sat May 05 00:31:30 +0000 2018
 [Trump]
 Our high level delegation is on the way back from China where they had long meetings with Chinese leaders and business representatives.
-We will be meeting tomorrow to determine the results, but it is hard for China in that they have become very spoiled with U.S. trade wins!|hard|+2|Trump||
+We will be meeting tomorrow to determine the results, but it is hard for China in that they have become very spoiled with U.S. trade wins!|598~602|hard|+2|Trump|||
 
 992558888212946949|992558888212946949
 Sat May 05 00:17:34 +0000 2018
 [Trump]
 Just returned home to the beautiful White House, from Dallas, where the Arena was packed to the rafters with the great fans and supporters of the @NRA.
-It was so wonderful to be there!|returned|+2|Trump||
+It was so wonderful to be there!|737~745|returned|+2|Trump|||
 
 992558888212946949|992558888212946949
 Sat May 05 00:17:34 +0000 2018
 [Trump]
 Just returned home to the beautiful White House, from Dallas, where the Arena was packed to the rafters with the great fans and supporters of the @NRA.
-It was so wonderful to be there!|packed|+2|Trump||
+It was so wonderful to be there!|814~820|packed|+2|Trump|||
 
 992558888212946949|992558888212946949
 Sat May 05 00:17:34 +0000 2018
 [Trump]
 Just returned home to the beautiful White House, from Dallas, where the Arena was packed to the rafters with the great fans and supporters of the @NRA.
-It was so wonderful to be there!|there|+2|Trump|wonderful|positive
+It was so wonderful to be there!|910~915|there|+2|Trump|wonderful|894~903|positive
 
 992556495182155776|992556495182155776
 Sat May 05 00:08:03 +0000 2018
 [Trump]
 Great book just out by very successful businessman @AndyPuzder.
-Always known as somebody who knows how to win, “Capitalist Comeback” will be a big hit!|out|+2|Trump|Great|positive
+Always known as somebody who knows how to win, “Capitalist Comeback” will be a big hit!|992~995|out|+2|Trump|Great|976~981|positive
 
 992538416196804608|992538416196804608
 Fri May 04 22:56:13 +0000 2018
@@ -69,7 +69,7 @@ Fri May 04 22:56:13 +0000 2018
 I want to thank all of our friends and patriots at the @NRA.
 We will never fail, and we will always protect your Second Amendment!
 God Bless you, and God Bless America!
-https://t.co/3PoNPV24p4|thank|+2|Trump||
+https://t.co/3PoNPV24p4|1197~1202|thank|+2|Trump|||
 
 992538416196804608|992538416196804608
 Fri May 04 22:56:13 +0000 2018
@@ -77,7 +77,7 @@ Fri May 04 22:56:13 +0000 2018
 I want to thank all of our friends and patriots at the @NRA.
 We will never fail, and we will always protect your Second Amendment!
 God Bless you, and God Bless America!
-https://t.co/3PoNPV24p4|fail|-2|Trump||
+https://t.co/3PoNPV24p4|1262~1266|fail|-2|Trump|||
 
 992538416196804608|992538416196804608
 Fri May 04 22:56:13 +0000 2018
@@ -85,37 +85,37 @@ Fri May 04 22:56:13 +0000 2018
 I want to thank all of our friends and patriots at the @NRA.
 We will never fail, and we will always protect your Second Amendment!
 God Bless you, and God Bless America!
-https://t.co/3PoNPV24p4|protect|+2|Trump||
+https://t.co/3PoNPV24p4|1287~1294|protect|+2|Trump|||
 
 992524132884664321|992524132884664321
 Fri May 04 21:59:28 +0000 2018
 [Trump]
 We are going to demand Congress secure the border in the upcoming CR.
-Illegal immigration must end!|secure|+2|Trump||
+Illegal immigration must end!|1471~1477|secure|+2|Trump|||
 
 992524132884664321|992524132884664321
 Fri May 04 21:59:28 +0000 2018
 [Trump]
 We are going to demand Congress secure the border in the upcoming CR.
-Illegal immigration must end!|end|+2|Trump||
+Illegal immigration must end!|1534~1537|end|+2|Trump|||
 
 992523949698412544|992523949698412544
 Fri May 04 21:58:44 +0000 2018
 [Trump]
 Democrats and liberals in Congress want to disarm law-abiding Americans at the same time they are releasing dangerous criminal aliens and savage gang members onto our streets.
-Politicians who put criminal aliens before American Citizens should be voted out of office!|disarm|+1|Trump||
+Politicians who put criminal aliens before American Citizens should be voted out of office!|1641~1647|disarm|+1|Trump|||
 
 992523949698412544|992523949698412544
 Fri May 04 21:58:44 +0000 2018
 [Trump]
 Democrats and liberals in Congress want to disarm law-abiding Americans at the same time they are releasing dangerous criminal aliens and savage gang members onto our streets.
-Politicians who put criminal aliens before American Citizens should be voted out of office!|releasing|+1|Trump||
+Politicians who put criminal aliens before American Citizens should be voted out of office!|1696~1705|releasing|+1|Trump|||
 
 992523949698412544|992523949698412544
 Fri May 04 21:58:44 +0000 2018
 [Trump]
 Democrats and liberals in Congress want to disarm law-abiding Americans at the same time they are releasing dangerous criminal aliens and savage gang members onto our streets.
-Politicians who put criminal aliens before American Citizens should be voted out of office!|voted out|+2|Trump||
+Politicians who put criminal aliens before American Citizens should be voted out of office!|1845~1854|voted out|+2|Trump|||
 
 992503576852393985|992503576852393985
 Fri May 04 20:37:47 +0000 2018
@@ -123,7 +123,7 @@ Fri May 04 20:37:47 +0000 2018
 All of us here today are united by the same timeless values.
 We believe that our liberty is a gift from our creator, and that no Government can ever take it away.
 We believe in the rule of law - and we support the men and women of law enforcement.
-We have pride in our history... https://t.co/eONj1Y8oju|united|+2|Trump||
+We have pride in our history... https://t.co/eONj1Y8oju|1950~1956|united|+2|Trump|||
 
 992503576852393985|992503576852393985
 Fri May 04 20:37:47 +0000 2018
@@ -131,7 +131,7 @@ Fri May 04 20:37:47 +0000 2018
 All of us here today are united by the same timeless values.
 We believe that our liberty is a gift from our creator, and that no Government can ever take it away.
 We believe in the rule of law - and we support the men and women of law enforcement.
-We have pride in our history... https://t.co/eONj1Y8oju|gift|+2|Trump||
+We have pride in our history... https://t.co/eONj1Y8oju|2019~2023|gift|+2|Trump|||
 
 992503576852393985|992503576852393985
 Fri May 04 20:37:47 +0000 2018
@@ -139,7 +139,7 @@ Fri May 04 20:37:47 +0000 2018
 All of us here today are united by the same timeless values.
 We believe that our liberty is a gift from our creator, and that no Government can ever take it away.
 We believe in the rule of law - and we support the men and women of law enforcement.
-We have pride in our history... https://t.co/eONj1Y8oju|believe in|+2|Trump||
+We have pride in our history... https://t.co/eONj1Y8oju|2091~2101|believe in|+2|Trump|||
 
 992503576852393985|992503576852393985
 Fri May 04 20:37:47 +0000 2018
@@ -147,19 +147,19 @@ Fri May 04 20:37:47 +0000 2018
 All of us here today are united by the same timeless values.
 We believe that our liberty is a gift from our creator, and that no Government can ever take it away.
 We believe in the rule of law - and we support the men and women of law enforcement.
-We have pride in our history... https://t.co/eONj1Y8oju|pride|+2|Trump||
+We have pride in our history... https://t.co/eONj1Y8oju|2181~2186|pride|+2|Trump|||
 
 992357529362583552|992357529362583552
 Fri May 04 10:57:26 +0000 2018
 [Trump]
 Going to Dallas (the GREAT State of Texas) today.
-Leaving soon!|Going|+2|Trump||
+Leaving soon!|2419~2424|Going|+2|Trump|||
 
 992357529362583552|992357529362583552
 Fri May 04 10:57:26 +0000 2018
 [Trump]
 Going to Dallas (the GREAT State of Texas) today.
-Leaving soon!|Leaving|+2|Trump||
+Leaving soon!|2469~2476|Leaving|+2|Trump|||
 
 992354530510721025|992354530510721025
 Fri May 04 10:45:31 +0000 2018
@@ -168,7 +168,7 @@ NBC NEWS is wrong again!
 They cite “sources” which are constantly wrong.
 Problem is, like so many others, the sources probably don’t exist, they are fabricated, fiction!
 NBC, my former home with the Apprentice, is now as bad as Fake News CNN.
-Sad!|wrong|+2|Trump||
+Sad!|2554~2559|wrong|+2|Trump|||
 
 992354530510721025|992354530510721025
 Fri May 04 10:45:31 +0000 2018
@@ -177,7 +177,7 @@ NBC NEWS is wrong again!
 They cite “sources” which are constantly wrong.
 Problem is, like so many others, the sources probably don’t exist, they are fabricated, fiction!
 NBC, my former home with the Apprentice, is now as bad as Fake News CNN.
-Sad!|wrong|+2|Trump||
+Sad!|2608~2613|wrong|+2|Trump|||
 
 992354530510721025|992354530510721025
 Fri May 04 10:45:31 +0000 2018
@@ -186,7 +186,7 @@ NBC NEWS is wrong again!
 They cite “sources” which are constantly wrong.
 Problem is, like so many others, the sources probably don’t exist, they are fabricated, fiction!
 NBC, my former home with the Apprentice, is now as bad as Fake News CNN.
-Sad!|exist|-2|Trump||
+Sad!|2675~2680|exist|-2|Trump|||
 
 992354530510721025|992354530510721025
 Fri May 04 10:45:31 +0000 2018
@@ -195,7 +195,7 @@ NBC NEWS is wrong again!
 They cite “sources” which are constantly wrong.
 Problem is, like so many others, the sources probably don’t exist, they are fabricated, fiction!
 NBC, my former home with the Apprentice, is now as bad as Fake News CNN.
-Sad!|fabricated|+2|Trump||
+Sad!|2691~2701|fabricated|+2|Trump|||
 
 992354530510721025|992354530510721025
 Fri May 04 10:45:31 +0000 2018
@@ -204,7 +204,7 @@ NBC NEWS is wrong again!
 They cite “sources” which are constantly wrong.
 Problem is, like so many others, the sources probably don’t exist, they are fabricated, fiction!
 NBC, my former home with the Apprentice, is now as bad as Fake News CNN.
-Sad!|fiction|+2|Trump||
+Sad!|2703~2710|fiction|+2|Trump|||
 
 992354530510721025|992354530510721025
 Fri May 04 10:45:31 +0000 2018
@@ -213,19 +213,19 @@ NBC NEWS is wrong again!
 They cite “sources” which are constantly wrong.
 Problem is, like so many others, the sources probably don’t exist, they are fabricated, fiction!
 NBC, my former home with the Apprentice, is now as bad as Fake News CNN.
-Sad!|bad|+2|Trump||
+Sad!|2763~2766|bad|+2|Trump|||
 
 992350362450518016|992350362450518016
 Fri May 04 10:28:58 +0000 2018
 [Trump]
 Because Jobs in the U.S. are doing so well, Americans receiving unemployment aid is the lowest since 1973.
-Great!|doing so well|+2|Trump||
+Great!|3008~3021|doing so well|+2|Trump|||
 
 992350362450518016|992350362450518016
 Fri May 04 10:28:58 +0000 2018
 [Trump]
 Because Jobs in the U.S. are doing so well, Americans receiving unemployment aid is the lowest since 1973.
-Great!|lowest|+2|Trump||
+Great!|3067~3073|lowest|+2|Trump|||
 
 992348740529815552|992348740529815552
 Fri May 04 10:22:31 +0000 2018
@@ -233,7 +233,7 @@ Fri May 04 10:22:31 +0000 2018
 Our Southern Border is under siege.
 Congress must act now to change our weak and ineffective immigration laws.
 Must build a Wall.
-Mexico, which has a massive crime problem, is doing little to help!|siege|+2|Trump||
+Mexico, which has a massive crime problem, is doing little to help!|3181~3186|siege|+2|Trump|||
 
 992348740529815552|992348740529815552
 Fri May 04 10:22:31 +0000 2018
@@ -241,7 +241,7 @@ Fri May 04 10:22:31 +0000 2018
 Our Southern Border is under siege.
 Congress must act now to change our weak and ineffective immigration laws.
 Must build a Wall.
-Mexico, which has a massive crime problem, is doing little to help!|act|+2|Trump||
+Mexico, which has a massive crime problem, is doing little to help!|3202~3205|act|+2|Trump|||
 
 992348740529815552|992348740529815552
 Fri May 04 10:22:31 +0000 2018
@@ -249,7 +249,7 @@ Fri May 04 10:22:31 +0000 2018
 Our Southern Border is under siege.
 Congress must act now to change our weak and ineffective immigration laws.
 Must build a Wall.
-Mexico, which has a massive crime problem, is doing little to help!|Wall|+2|Trump||
+Mexico, which has a massive crime problem, is doing little to help!|3276~3280|Wall|+2|Trump|||
 
 992348740529815552|992348740529815552
 Fri May 04 10:22:31 +0000 2018
@@ -257,7 +257,7 @@ Fri May 04 10:22:31 +0000 2018
 Our Southern Border is under siege.
 Congress must act now to change our weak and ineffective immigration laws.
 Must build a Wall.
-Mexico, which has a massive crime problem, is doing little to help!|help|-2|Trump||
+Mexico, which has a massive crime problem, is doing little to help!|3344~3348|help|-2|Trump|||
 
 992083738531192833|992083738531192833
 Thu May 03 16:49:29 +0000 2018
@@ -266,7 +266,7 @@ This spring marks 4yrs since the Phoenix VA crisis.
 We won't forget what happened to our GREAT VETS.
 Choice is vital, but the program needs work &amp; is running out of $.
 Congress must fix Choice Program by Memorial Day so VETS can get the care they deserve.
-I will sign immediately!|forget|-2|Trump||
+I will sign immediately!|3470~3476|forget|-2|Trump|||
 
 992083738531192833|992083738531192833
 Thu May 03 16:49:29 +0000 2018
@@ -275,7 +275,7 @@ This spring marks 4yrs since the Phoenix VA crisis.
 We won't forget what happened to our GREAT VETS.
 Choice is vital, but the program needs work &amp; is running out of $.
 Congress must fix Choice Program by Memorial Day so VETS can get the care they deserve.
-I will sign immediately!|vital|+2|Trump||
+I will sign immediately!|3520~3525|vital|+2|Trump|||
 
 992083738531192833|992083738531192833
 Thu May 03 16:49:29 +0000 2018
@@ -284,7 +284,7 @@ This spring marks 4yrs since the Phoenix VA crisis.
 We won't forget what happened to our GREAT VETS.
 Choice is vital, but the program needs work &amp; is running out of $.
 Congress must fix Choice Program by Memorial Day so VETS can get the care they deserve.
-I will sign immediately!|work|+2|Trump||
+I will sign immediately!|3549~3553|work|+2|Trump|||
 
 992083738531192833|992083738531192833
 Thu May 03 16:49:29 +0000 2018
@@ -293,7 +293,7 @@ This spring marks 4yrs since the Phoenix VA crisis.
 We won't forget what happened to our GREAT VETS.
 Choice is vital, but the program needs work &amp; is running out of $.
 Congress must fix Choice Program by Memorial Day so VETS can get the care they deserve.
-I will sign immediately!|running out of $|+2|Trump||
+I will sign immediately!|3563~3579|running out of $|+2|Trump|||
 
 992083738531192833|992083738531192833
 Thu May 03 16:49:29 +0000 2018
@@ -302,7 +302,7 @@ This spring marks 4yrs since the Phoenix VA crisis.
 We won't forget what happened to our GREAT VETS.
 Choice is vital, but the program needs work &amp; is running out of $.
 Congress must fix Choice Program by Memorial Day so VETS can get the care they deserve.
-I will sign immediately!|fix|+2|Trump||
+I will sign immediately!|3595~3598|fix|+2|Trump|||
 
 992083738531192833|992083738531192833
 Thu May 03 16:49:29 +0000 2018
@@ -311,67 +311,67 @@ This spring marks 4yrs since the Phoenix VA crisis.
 We won't forget what happened to our GREAT VETS.
 Choice is vital, but the program needs work &amp; is running out of $.
 Congress must fix Choice Program by Memorial Day so VETS can get the care they deserve.
-I will sign immediately!|sign|+2|Trump||
+I will sign immediately!|3676~3680|sign|+2|Trump|||
 
 992078098974703616|992078098974703616
 Thu May 03 16:27:05 +0000 2018
 [Trump]
 Today, it was my great honor to celebrate the #NationalDayOfPrayer at the @WhiteHouse, in the Rose Garden!
-Proclamation: https://t.co/4jAxJnBJoq https://t.co/AsWTfpu290|celebrate|+2|Trump|honor|positive
+Proclamation: https://t.co/4jAxJnBJoq https://t.co/AsWTfpu290|3785~3794|celebrate|+2|Trump|honor|3776~3781|positive
 
 991995845120753664|991995845120753664
 Thu May 03 11:00:14 +0000 2018
 [Trump]
 ...despite already having signed a detailed letter admitting that there was no affair.
 Prior to its violation by Ms. Clifford and her attorney, this was a private agreement.
-Money from the campaign, or campaign contributions, played no roll in this transaction.|signed|+2|Trump||
+Money from the campaign, or campaign contributions, played no roll in this transaction.|4007~4013|signed|+2|Trump|||
 
 991995845120753664|991995845120753664
 Thu May 03 11:00:14 +0000 2018
 [Trump]
 ...despite already having signed a detailed letter admitting that there was no affair.
 Prior to its violation by Ms. Clifford and her attorney, this was a private agreement.
-Money from the campaign, or campaign contributions, played no roll in this transaction.|roll|-2|Trump||
+Money from the campaign, or campaign contributions, played no roll in this transaction.|4217~4221|roll|-2|Trump|||
 
 991995845120753664|991995845120753664
 Thu May 03 11:00:14 +0000 2018
 [Trump]
 ...despite already having signed a detailed letter admitting that there was no affair.
 Prior to its violation by Ms. Clifford and her attorney, this was a private agreement.
-Money from the campaign, or campaign contributions, played no roll in this transaction.|private|+2|Trump||
+Money from the campaign, or campaign contributions, played no roll in this transaction.|4136~4143|private|+2|Trump|||
 
 991994433750142976|991994433750142976
 Thu May 03 10:54:38 +0000 2018
 [Trump]
 ...very common among celebrities and people of wealth.
 In this case it is in full force and effect and will be used in Arbitration for damages against Ms. Clifford (Daniels).
-The agreement was used to stop the false and extortionist accusations made by her about an affair,......|in full force and effect|+2|Trump||
+The agreement was used to stop the false and extortionist accusations made by her about an affair,......|4376~4400|in full force and effect|+2|Trump|||
 
 991994433750142976|991994433750142976
 Thu May 03 10:54:38 +0000 2018
 [Trump]
 ...very common among celebrities and people of wealth.
 In this case it is in full force and effect and will be used in Arbitration for damages against Ms. Clifford (Daniels).
-The agreement was used to stop the false and extortionist accusations made by her about an affair,......|used|+2|Trump||
+The agreement was used to stop the false and extortionist accusations made by her about an affair,......|4413~4417|used|+2|Trump|||
 
 991886413686861824|991886413686861824
 Thu May 03 03:45:24 +0000 2018
 [Trump]
 Our great financial team is in China trying to negotiate a level playing field on trade!
 I look forward to being with President Xi in the not too distant future.
-We will always have a good (great) relationship!|negotiate|+2|Trump||
+We will always have a good (great) relationship!|5028~5037|negotiate|+2|Trump|||
 
 991886413686861824|991886413686861824
 Thu May 03 03:45:24 +0000 2018
 [Trump]
 Our great financial team is in China trying to negotiate a level playing field on trade!
 I look forward to being with President Xi in the not too distant future.
-We will always have a good (great) relationship!|with|+2|Trump||
+We will always have a good (great) relationship!|5094~5098|with|+2|Trump|||
 
 991886413686861824|991886413686861824
 Thu May 03 03:45:24 +0000 2018
 [Trump]
 Our great financial team is in China trying to negotiate a level playing field on trade!
 I look forward to being with President Xi in the not too distant future.
-We will always have a good (great) relationship!|relationship|+2|Trump||
+We will always have a good (great) relationship!|5178~5190|relationship|+2|Trump|||
 

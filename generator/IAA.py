@@ -56,11 +56,14 @@ class Agreement():
             annotator2 = self.annotator2[annotation_id]
             if annotator2:
                 for event, value in self.annotator1[annotation_id].items():
-                    anno_1_2[0].extend(['annotator1', event, value[0], value[1]])
+                    #anno_1_2[0].extend(['annotator1', event, value[0], value[1], value[2], value[3]])
+                    anno_1_2[0].extend(['annotator1',  event, value[2], value[3]])
                     if event in self.annotator2[annotation_id]:
-                        anno_1_2[1].extend(['annotator2', event, self.annotator2[annotation_id][event][0],self.annotator2[annotation_id][event][1]])
+                        #anno_1_2[1].extend(['annotator2', event, self.annotator2[annotation_id][event][0],self.annotator2[annotation_id][event][1], self.annotator2[annotation_id][event][2],self.annotator2[annotation_id][event][3]])
+                        anno_1_2[1].extend(['annotator2', event, self.annotator2[annotation_id][event][2], self.annotator2[annotation_id][event][3]])
                     else:
-                        anno_1_2[1].extend(['annotator2', '0', '0', '0'])
+                        #anno_1_2[1].extend(['annotator2', '0', '0', '0','0','0'])
+                        anno_1_2[1].extend(['annotator2', '0','0', '0'])
         print("Cohen's kappa score between annotator 1 and 2: \n", cohen_kappa_score(anno_1_2[0], anno_1_2[1]))
        
         #agreement between annotator 1 and 3 
@@ -69,11 +72,14 @@ class Agreement():
             annotator3 = self.annotator3[annotation_id]
             if annotator3:
                 for event, value in self.annotator1[annotation_id].items():
-                    anno_1_3[0].extend(['annotator1', event, value[0], value[1]])
+                    #anno_1_3[0].extend(['annotator1', event, value[0], value[1], value[2], value[3]])
+                    anno_1_3[0].extend(['annotator1', event, value[2], value[3]])
                     if event in self.annotator3[annotation_id]:
-                        anno_1_3[1].extend(['annotator3', event, self.annotator3[annotation_id][event][0],self.annotator3[annotation_id][event][1]])
+                        #anno_1_3[1].extend(['annotator3', event, self.annotator3[annotation_id][event][0],self.annotator3[annotation_id][event][1], self.annotator3[annotation_id][event][2],self.annotator3[annotation_id][event][3]])
+                        anno_1_3[1].extend(['annotator3', event, self.annotator3[annotation_id][event][2], self.annotator3[annotation_id][event][3]])
                     else:
-                        anno_1_3[1].extend(['annotator3', '0', '0', '0'])
+                        #anno_1_3[1].extend(['annotator3', '0', '0', '0','0','0'])
+                        anno_1_3[1].extend(['annotator3', '0', '0','0'])
         print("Cohen's kappa score between annotator 1 and 3: \n", cohen_kappa_score(anno_1_3[0], anno_1_3[1]))
        
         #agreement between annotator 2 and 3 
@@ -82,11 +88,14 @@ class Agreement():
             annotator3 = self.annotator3[annotation_id]
             if annotator3:
                 for event, value in self.annotator2[annotation_id].items():
-                    anno_2_3[0].extend(['annotator1', event, value[0], value[1]])
+                    #anno_2_3[0].extend(['annotator2', event, value[0], value[1], value[2], value[3]])
+                    anno_2_3[0].extend(['annotator2', event, value[2], value[3]])
                     if event in self.annotator3[annotation_id]:
-                        anno_2_3[1].extend(['annotator3', event, self.annotator3[annotation_id][event][0],self.annotator3[annotation_id][event][1]])
+                        #anno_2_3[1].extend(['annotator3', event, self.annotator3[annotation_id][event][0],self.annotator3[annotation_id][event][1],self.annotator3[annotation_id][event][2],self.annotator3[annotation_id][event][3]])
+                        anno_2_3[1].extend(['annotator3', event, self.annotator3[annotation_id][event][2], self.annotator3[annotation_id][event][3]])
                     else:
-                        anno_2_3[1].extend(['annotator3', '0', '0', '0'])
+                        #anno_2_3[1].extend(['annotator3', '0', '0', '0','0','0'])
+                        anno_2_3[1].extend(['annotator3', '0', '0','0'])
         print("Cohen's kappa score between annotator 2 and 3: \n", cohen_kappa_score(anno_2_3[0], anno_2_3[1]))
        
                     
