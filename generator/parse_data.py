@@ -60,9 +60,10 @@ class Parse():
             
         for emotion in root.iter('Emotion'):
             emotion_id = emotion.get('id')
+            emotion_span = emotion.get('spans')
             emotion_text = emotion.get('text')
             emotion_value = emotion.get('value')
-            emotions[emotion_id] = [emotion_text, emotion_value]
+            emotions[emotion_id] = [emotion_text, emotion_span, emotion_value]
             
         for link_s_e in root.iter('Link_Source_Event'):
             #link_id_s_e = link_s_e.get('id')
@@ -100,11 +101,12 @@ class Parse():
         """
         with open(outfile, 'w') as f:
             #write header
-            f.write('annotation_id|tweet_content|event_text|event_confidence|source|emotion|emotion_value\n')
+            f.write('annotation_id|tweet_content|event_span|event_text|event_confidence|source|emotion|emotion_span|emotion_value\n')
             for tweet_id in annotation:
                 tweet_content = annotation[tweet_id]['TEXT']
                 for event in annotation[tweet_id]:
                     if event != 'TEXT':
+                        event_span = annotation[tweet_id][event]['event_text'][0]
                         event_text = annotation[tweet_id][event]['event_text'][1]
                         event_confidence = annotation[tweet_id][event]['event_text'][2]
                         source = annotation[tweet_id][event]['source']
@@ -113,14 +115,16 @@ class Parse():
 
                         emotion = annotation[tweet_id][event]['emotion']
                         emotion_value = ''
+                        emotion_span = ''
                         
                         if emotion:
                             emotion = annotation[tweet_id][event]['emotion'][0]
-                            emotion_value = annotation[tweet_id][event]['emotion'][1]
+                            emotion_span = annotation[tweet_id][event]['emotion'][1]
+                            emotion_value = annotation[tweet_id][event]['emotion'][2]
                         else:
                             emotion = ''
                             
-                        f.write(tweet_id + '|' + tweet_content + '|' + event_text + '|' + event_confidence + '|' + source + '|' + emotion + '|' + emotion_value + '\n\n')
+                        f.write(tweet_id + '|' + tweet_content + '|' + event_span + '|' + event_text + '|' + event_confidence + '|' + source + '|' + emotion + '|' + emotion_span + '|' + emotion_value + '\n\n')
         
         
     
@@ -167,7 +171,7 @@ class Parse():
         return results
         
 if __name__ == '__main__':
-    file_dir = 'data/annotator3'
+    file_dir = 'data/annotator2'
     file_dir = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', file_dir))
     
     parser = Parse()

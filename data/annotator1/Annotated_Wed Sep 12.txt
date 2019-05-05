@@ -1,11 +1,11 @@
-annotation_id|tweet_content|event_text|event_confidence|source|emotion|emotion_value
+annotation_id|tweet_content|event_span|event_text|event_confidence|source|emotion|emotion_span|emotion_value
 1039915933278580738|1039915933278580738
 Wed Sep 12 16:37:33 +0000 2018
 [Trump]
 It is imperative that everyone follow local evacuation orders.
 This storm is extremely dangerous.
 Be SAFE!
-#HurricaneFlorence https://t.co/94Ue4e26PD https://t.co/KvF54CwomW| follow |+2|Trump||
+#HurricaneFlorence https://t.co/94Ue4e26PD https://t.co/KvF54CwomW|219~227| follow |+2|Trump|||
 
 1039915933278580738|1039915933278580738
 Wed Sep 12 16:37:33 +0000 2018
@@ -13,18 +13,18 @@ Wed Sep 12 16:37:33 +0000 2018
 It is imperative that everyone follow local evacuation orders.
 This storm is extremely dangerous.
 Be SAFE!
-#HurricaneFlorence https://t.co/94Ue4e26PD https://t.co/KvF54CwomW|dangerous|+2|Trump||
+#HurricaneFlorence https://t.co/94Ue4e26PD https://t.co/KvF54CwomW|276~285|dangerous|+2|Trump|||
 
 1039877857441402882|1039877857441402882
 Wed Sep 12 14:06:15 +0000 2018
 [Trump]
-“I can say, as it relates to the Senate Intelligence Committee Investigation, that we have NO hard evidence of Collusion.”  Richard Burr (R-NC) Senate Intelligence Committee, Chairman|evidence|-2|Richard Burr ||
+“I can say, as it relates to the Senate Intelligence Committee Investigation, that we have NO hard evidence of Collusion.”  Richard Burr (R-NC) Senate Intelligence Committee, Chairman|522~530|evidence|-2|Richard Burr |||
 
 1039875785853681664|1039875785853681664
 Wed Sep 12 13:58:01 +0000 2018
 [Trump]
 Hurricane Florence may now be dipping a bit south and hitting a portion of the Great State of Georgia.
-Be ready, be prepared!|dipping|+1|Trump||
+Be ready, be prepared!|697~704|dipping|+1|Trump|||
 
 1039830659504779265|1039830659504779265
 Wed Sep 12 10:58:43 +0000 2018
@@ -32,7 +32,7 @@ Wed Sep 12 10:58:43 +0000 2018
 Hurricane Florence is looking even bigger than anticipated.
 It will be arriving soon.
 FEMA, First Responders and Law Enforcement are supplied and ready.
-Be safe!|bigger|+2|Trump||
+Be safe!|888~894|bigger|+2|Trump|||
 
 1039830659504779265|1039830659504779265
 Wed Sep 12 10:58:43 +0000 2018
@@ -40,7 +40,7 @@ Wed Sep 12 10:58:43 +0000 2018
 Hurricane Florence is looking even bigger than anticipated.
 It will be arriving soon.
 FEMA, First Responders and Law Enforcement are supplied and ready.
-Be safe!|arriving|+2|Trump||
+Be safe!|924~932|arriving|+2|Trump|||
 
 1039830659504779265|1039830659504779265
 Wed Sep 12 10:58:43 +0000 2018
@@ -48,7 +48,7 @@ Wed Sep 12 10:58:43 +0000 2018
 Hurricane Florence is looking even bigger than anticipated.
 It will be arriving soon.
 FEMA, First Responders and Law Enforcement are supplied and ready.
-Be safe!|supplied|+2|Trump||
+Be safe!|986~994|supplied|+2|Trump|||
 
 1039830659504779265|1039830659504779265
 Wed Sep 12 10:58:43 +0000 2018
@@ -56,89 +56,89 @@ Wed Sep 12 10:58:43 +0000 2018
 Hurricane Florence is looking even bigger than anticipated.
 It will be arriving soon.
 FEMA, First Responders and Law Enforcement are supplied and ready.
-Be safe!|ready|+2|Trump||
+Be safe!|999~1004|ready|+2|Trump|||
 
 1039828966595616768|1039828966595616768
 Wed Sep 12 10:51:59 +0000 2018
 [Trump]
 We got A Pluses for our recent hurricane work in Texas and Florida (and did an unappreciated great job in Puerto Rico, even though an inaccessible island with very poor electricity and a totally incompetent Mayor of San Juan).
-We are ready for the big one that is coming!|got|+2|Trump||
+We are ready for the big one that is coming!|1078~1081|got|+2|Trump|||
 
 1039828966595616768|1039828966595616768
 Wed Sep 12 10:51:59 +0000 2018
 [Trump]
 We got A Pluses for our recent hurricane work in Texas and Florida (and did an unappreciated great job in Puerto Rico, even though an inaccessible island with very poor electricity and a totally incompetent Mayor of San Juan).
-We are ready for the big one that is coming!|ready|+2|Trump||
+We are ready for the big one that is coming!|1309~1314|ready|+2|Trump|||
 
 1039823496501768192|1039823496501768192
 Wed Sep 12 10:30:15 +0000 2018
 [Trump]
 “The President has absolutely demonstrated no wrongdoing whatsoever &amp; that the Special Counsel has no evidence of any wrongdoing.
-In other words, it’s time to end this Witch Hunt.” @LouDobbs   Russian “collusion” was just an excuse by the Democrats for having lost the Election!|demonstrated|+2|Trump||
+In other words, it’s time to end this Witch Hunt.” @LouDobbs   Russian “collusion” was just an excuse by the Democrats for having lost the Election!|1437~1449|demonstrated|+2|Trump|||
 
 1039823496501768192|1039823496501768192
 Wed Sep 12 10:30:15 +0000 2018
 [Trump]
 “The President has absolutely demonstrated no wrongdoing whatsoever &amp; that the Special Counsel has no evidence of any wrongdoing.
-In other words, it’s time to end this Witch Hunt.” @LouDobbs   Russian “collusion” was just an excuse by the Democrats for having lost the Election!|evidence |-2|Trump||
+In other words, it’s time to end this Witch Hunt.” @LouDobbs   Russian “collusion” was just an excuse by the Democrats for having lost the Election!|1513~1522|evidence |-2|Trump|||
 
 1039823496501768192|1039823496501768192
 Wed Sep 12 10:30:15 +0000 2018
 [Trump]
 “The President has absolutely demonstrated no wrongdoing whatsoever &amp; that the Special Counsel has no evidence of any wrongdoing.
-In other words, it’s time to end this Witch Hunt.” @LouDobbs   Russian “collusion” was just an excuse by the Democrats for having lost the Election!|end|-2|Trump||
+In other words, it’s time to end this Witch Hunt.” @LouDobbs   Russian “collusion” was just an excuse by the Democrats for having lost the Election!|1570~1573|end|-2|Trump|||
 
 1039823496501768192|1039823496501768192
 Wed Sep 12 10:30:15 +0000 2018
 [Trump]
 “The President has absolutely demonstrated no wrongdoing whatsoever &amp; that the Special Counsel has no evidence of any wrongdoing.
-In other words, it’s time to end this Witch Hunt.” @LouDobbs   Russian “collusion” was just an excuse by the Democrats for having lost the Election!|excuse|+2|Trump||
+In other words, it’s time to end this Witch Hunt.” @LouDobbs   Russian “collusion” was just an excuse by the Democrats for having lost the Election!|1636~1642|excuse|+2|Trump|||
 
 1039693872396468227|1039693872396468227
 Wed Sep 12 01:55:10 +0000 2018
 [Trump]
 Crazy Maxine Waters: “After we impeach Trump, we’ll go after Mike Pence.
 We’ll get him.”  @FoxNews  Where are the Democrats coming from?
-The best Economy in the history of our country would totally collapse if they ever took control!|impeach|+2|Maxine Waters||
+The best Economy in the history of our country would totally collapse if they ever took control!|1781~1788|impeach|+2|Maxine Waters|||
 
 1039693872396468227|1039693872396468227
 Wed Sep 12 01:55:10 +0000 2018
 [Trump]
 Crazy Maxine Waters: “After we impeach Trump, we’ll go after Mike Pence.
 We’ll get him.”  @FoxNews  Where are the Democrats coming from?
-The best Economy in the history of our country would totally collapse if they ever took control!|go|+2|Maxine Waters||
+The best Economy in the history of our country would totally collapse if they ever took control!|1802~1804|go|+2|Maxine Waters|||
 
 1039693872396468227|1039693872396468227
 Wed Sep 12 01:55:10 +0000 2018
 [Trump]
 Crazy Maxine Waters: “After we impeach Trump, we’ll go after Mike Pence.
 We’ll get him.”  @FoxNews  Where are the Democrats coming from?
-The best Economy in the history of our country would totally collapse if they ever took control!|get|+2|Maxine Waters||
+The best Economy in the history of our country would totally collapse if they ever took control!|1829~1832|get|+2|Maxine Waters|||
 
 1039693872396468227|1039693872396468227
 Wed Sep 12 01:55:10 +0000 2018
 [Trump]
 Crazy Maxine Waters: “After we impeach Trump, we’ll go after Mike Pence.
 We’ll get him.”  @FoxNews  Where are the Democrats coming from?
-The best Economy in the history of our country would totally collapse if they ever took control!|coming|0|Trump||
+The best Economy in the history of our country would totally collapse if they ever took control!|1874~1880|coming|0|Trump|||
 
 1039693872396468227|1039693872396468227
 Wed Sep 12 01:55:10 +0000 2018
 [Trump]
 Crazy Maxine Waters: “After we impeach Trump, we’ll go after Mike Pence.
 We’ll get him.”  @FoxNews  Where are the Democrats coming from?
-The best Economy in the history of our country would totally collapse if they ever took control!|collapse|+2|Trump||
+The best Economy in the history of our country would totally collapse if they ever took control!|1948~1956|collapse|+2|Trump|||
 
 1039687158456639489|1039687158456639489
 Wed Sep 12 01:28:29 +0000 2018
 [Trump]
-....giving the information, and causing the appointment of a Special C without having the courage of his own convictions.....”  Alan Dershowitz   @TuckerCarlson   In other words, the whole thing was illegally and very unfairly set up?|set|+2|Trump|unfairly|negative
+....giving the information, and causing the appointment of a Special C without having the courage of his own convictions.....”  Alan Dershowitz   @TuckerCarlson   In other words, the whole thing was illegally and very unfairly set up?|2271~2274|set|+2|Trump|unfairly|2262~2270|negative
 
 1039647670967721994|1039647670967721994
 Tue Sep 11 22:51:35 +0000 2018
 [Trump]
 RT @WhiteHouse: .
-@realDonaldTrump and @FLOTUS visited the Flight 93 National Memorial in Pennsylvania this morning to honor the memories of…|visited |+2|WhiteHouse||
+@realDonaldTrump and @FLOTUS visited the Flight 93 National Memorial in Pennsylvania this morning to honor the memories of…|2727~2735|visited |+2|WhiteHouse|||
 
 1039608725819088899|1039608725819088899
 Tue Sep 11 20:16:49 +0000 2018
@@ -146,91 +146,91 @@ Tue Sep 11 20:16:49 +0000 2018
 The safety of American people is my absolute highest priority.
 Heed the directions of your State and Local Officials.
 Please be prepared, be careful and be SAFE!
-https://t.co/YP7ssITwW9 https://t.co/LZIUCgdPTH|priority|+2|Trump||
+https://t.co/YP7ssITwW9 https://t.co/LZIUCgdPTH|2935~2943|priority|+2|Trump|||
 
 1039556378766069760|1039556378766069760
 Tue Sep 11 16:48:49 +0000 2018
 [Trump]
-Small Business Optimism Soars to Highest Level Ever | Breitbart https://t.co/T6rFhfPz6n via @BreitbartNews|Soars|+2|Trump||
+Small Business Optimism Soars to Highest Level Ever | Breitbart https://t.co/T6rFhfPz6n via @BreitbartNews|3176~3181|Soars|+2|Trump|||
 
 1039489954223542274|1039489954223542274
 Tue Sep 11 12:24:52 +0000 2018
 [Trump]
 Departing Washington, D.C. to attend a Flight 93 September 11th Memorial Service in Shanksville, Pennsylvania with Melania.
-#NeverForget https://t.co/O2sFUeRqeb|attend|+2|Trump||
+#NeverForget https://t.co/O2sFUeRqeb|3349~3355|attend|+2|Trump|||
 
 1039483479363399680|1039483479363399680
 Tue Sep 11 11:59:08 +0000 2018
 [Trump]
 Rudy Giuliani did a GREAT job as Mayor of NYC during the period of September 11th.
 His leadership, bravery and skill must never be forgotten.
-Rudy is a TRUE WARRIOR!|did|+2|Trump|GREAT job|positive
+Rudy is a TRUE WARRIOR!|3554~3557|did|+2|Trump|GREAT job|3560~3569|positive
 
 1039483479363399680|1039483479363399680
 Tue Sep 11 11:59:08 +0000 2018
 [Trump]
 Rudy Giuliani did a GREAT job as Mayor of NYC during the period of September 11th.
 His leadership, bravery and skill must never be forgotten.
-Rudy is a TRUE WARRIOR!|WARRIOR|+2|Trump|TRUE WARRIOR|positive
+Rudy is a TRUE WARRIOR!|3697~3704|WARRIOR|+2|Trump|TRUE WARRIOR|3692~3704|positive
 
 1039479054930530304|1039479054930530304
 Tue Sep 11 11:41:33 +0000 2018
 [Trump]
-“ERIC Holder could be running the Justice Department right now and it would be behaving no differently than it is.” @LouDobbs|running |+2|LouDobbs||
+“ERIC Holder could be running the Justice Department right now and it would be behaving no differently than it is.” @LouDobbs|3788~3796|running |+2|LouDobbs|||
 
 1039479054930530304|1039479054930530304
 Tue Sep 11 11:41:33 +0000 2018
 [Trump]
-“ERIC Holder could be running the Justice Department right now and it would be behaving no differently than it is.” @LouDobbs|behaving|-2|LouDobbs||
+“ERIC Holder could be running the Justice Department right now and it would be behaving no differently than it is.” @LouDobbs|3845~3853|behaving|-2|LouDobbs|||
 
 1039473456709021696|1039473456709021696
 Tue Sep 11 11:19:19 +0000 2018
 [Trump]
-New Strzok-Page texts reveal “Media Leak Strategy.”  @FoxNews  So terrible, and NOTHING is being done at DOJ or FBI - but the world is watching, and they get it completely.|done|+2|Trump||
+New Strzok-Page texts reveal “Media Leak Strategy.”  @FoxNews  So terrible, and NOTHING is being done at DOJ or FBI - but the world is watching, and they get it completely.|4049~4053|done|+2|Trump|||
 
 1039473456709021696|1039473456709021696
 Tue Sep 11 11:19:19 +0000 2018
 [Trump]
-New Strzok-Page texts reveal “Media Leak Strategy.”  @FoxNews  So terrible, and NOTHING is being done at DOJ or FBI - but the world is watching, and they get it completely.|watching|+2|Trump||
+New Strzok-Page texts reveal “Media Leak Strategy.”  @FoxNews  So terrible, and NOTHING is being done at DOJ or FBI - but the world is watching, and they get it completely.|4087~4095|watching|+2|Trump|||
 
 1039473456709021696|1039473456709021696
 Tue Sep 11 11:19:19 +0000 2018
 [Trump]
-New Strzok-Page texts reveal “Media Leak Strategy.”  @FoxNews  So terrible, and NOTHING is being done at DOJ or FBI - but the world is watching, and they get it completely.|get|+2|Trump||
+New Strzok-Page texts reveal “Media Leak Strategy.”  @FoxNews  So terrible, and NOTHING is being done at DOJ or FBI - but the world is watching, and they get it completely.|4106~4109|get|+2|Trump|||
 
 1039470755816374272|1039470755816374272
 Tue Sep 11 11:08:35 +0000 2018
 [Trump]
-“We have found nothing to show collusion between President Trump &amp; Russia, absolutely zero, but every day we get more documentation showing collusion between the FBI &amp; DOJ, the Hillary campaign, foreign spies &amp; Russians, incredible.” @SaraCarterDC @LouDobbs|show|-2|SaraCarterDC||
+“We have found nothing to show collusion between President Trump &amp; Russia, absolutely zero, but every day we get more documentation showing collusion between the FBI &amp; DOJ, the Hillary campaign, foreign spies &amp; Russians, incredible.” @SaraCarterDC @LouDobbs|4211~4215|show|-2|SaraCarterDC|||
 
 1039470755816374272|1039470755816374272
 Tue Sep 11 11:08:35 +0000 2018
 [Trump]
-“We have found nothing to show collusion between President Trump &amp; Russia, absolutely zero, but every day we get more documentation showing collusion between the FBI &amp; DOJ, the Hillary campaign, foreign spies &amp; Russians, incredible.” @SaraCarterDC @LouDobbs|showing|+2|SaraCarterDC||
+“We have found nothing to show collusion between President Trump &amp; Russia, absolutely zero, but every day we get more documentation showing collusion between the FBI &amp; DOJ, the Hillary campaign, foreign spies &amp; Russians, incredible.” @SaraCarterDC @LouDobbs|4321~4328|showing|+2|SaraCarterDC|||
 
 1039292858715578374|1039292858715578374
 Mon Sep 10 23:21:41 +0000 2018
 [Trump]
 Just had calls with South Carolina Governor Henry McMaster, North Carolina Governor Roy Cooper, and Virginia Governor Ralph Northam regarding the incoming storm.
-Federal Government stands by, ready to assist 24/7.|had|+2|Trump||
+Federal Government stands by, ready to assist 24/7.|4520~4523|had|+2|Trump|||
 
 1039292858715578374|1039292858715578374
 Mon Sep 10 23:21:41 +0000 2018
 [Trump]
 Just had calls with South Carolina Governor Henry McMaster, North Carolina Governor Roy Cooper, and Virginia Governor Ralph Northam regarding the incoming storm.
-Federal Government stands by, ready to assist 24/7.|stands|+2|Trump||
+Federal Government stands by, ready to assist 24/7.|4696~4702|stands|+2|Trump|||
 
 1039291783031734273|1039291783031734273
 Mon Sep 10 23:17:24 +0000 2018
 [Trump]
 My people just informed me that this is one of the worst storms to hit the East Coast in many years.
 Also, looking like a direct hit on North Carolina, South Carolina and Virginia.
-Please be prepared, be careful and be SAFE!|hit|+2|Trump||
+Please be prepared, be careful and be SAFE!|4856~4859|hit|+2|Trump|||
 
 1039291783031734273|1039291783031734273
 Mon Sep 10 23:17:24 +0000 2018
 [Trump]
 My people just informed me that this is one of the worst storms to hit the East Coast in many years.
 Also, looking like a direct hit on North Carolina, South Carolina and Virginia.
-Please be prepared, be careful and be SAFE!|looking |+2|Trump||
+Please be prepared, be careful and be SAFE!|4896~4904|looking |+2|Trump|||
 
