@@ -1,4 +1,5 @@
 annotation_id|tweet_content|event_span|event_text|event_confidence|source|emotion|emotion_span|emotion_value
+
 1003998873004773376|1003998873004773376
 Tue Jun 05 13:55:59 +0000 2018
 [Trump]

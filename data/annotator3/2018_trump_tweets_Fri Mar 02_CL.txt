@@ -1,4 +1,5 @@
 annotation_id|tweet_content|event_span|event_text|event_confidence|source|emotion|emotion_span|emotion_value
+
 969523385016471552|969523385016471552
 Fri Mar 02 10:42:42 +0000 2018
 [Trump]

@@ -101,7 +101,7 @@ class Parse():
         """
         with open(outfile, 'w') as f:
             #write header
-            f.write('annotation_id|tweet_content|event_span|event_text|event_confidence|source|emotion|emotion_span|emotion_value\n')
+            f.write('annotation_id|tweet_content|event_span|event_text|event_confidence|source|emotion|emotion_span|emotion_value\n\n')
             for tweet_id in annotation:
                 tweet_content = annotation[tweet_id]['TEXT']
                 for event in annotation[tweet_id]:
@@ -171,7 +171,7 @@ class Parse():
         return results
         
 if __name__ == '__main__':
-    file_dir = 'data/gold'
+    file_dir = 'data/annotator2'
     file_dir = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', file_dir))
     
     parser = Parse()
