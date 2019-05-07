@@ -4,7 +4,13 @@ annotation_id|tweet_content|event_span|event_text|event_confidence|source|emotio
 Tue Jun 05 13:55:59 +0000 2018
 [Trump]
 Terrific new book out by the wonderful Harris Faulkner, “9 Rules of Engagement.” Harris shares lessons from a military family.
-Enjoy!|79~82|out|+1|Trump|||
+Enjoy!|79~82|out|+2|Trump|Terrific|61~69|positive
+
+1003998873004773376|1003998873004773376
+Tue Jun 05 13:55:59 +0000 2018
+[Trump]
+Terrific new book out by the wonderful Harris Faulkner, “9 Rules of Engagement.” Harris shares lessons from a military family.
+Enjoy!|149~155|shares|+2|Trump|||
 
 1003997350791188482|1003997350791188482
 Tue Jun 05 13:49:56 +0000 2018
@@ -18,6 +24,12 @@ Tue Jun 05 13:49:56 +0000 2018
 Senator @RogerWicker of Mississippi has done everything necessary to Make America Great Again!
 Get out and vote for Roger, he has my total support!|394~401|support|+2|Trump|||
 
+1003997350791188482|1003997350791188482
+Tue Jun 05 13:49:56 +0000 2018
+[Trump]
+Senator @RogerWicker of Mississippi has done everything necessary to Make America Great Again!
+Get out and vote for Roger, he has my total support!|362~366|vote|0|Trump|||
+
 1003995933540044800|1003995933540044800
 Tue Jun 05 13:44:18 +0000 2018
 [Trump]
@@ -28,18 +40,22 @@ Tue Jun 05 13:44:18 +0000 2018
 [Trump]
 Vote for Congressman Devin Nunes, a true American Patriot the likes of which we rarely see in our modern day world....he truly loves our country and deserves everyone’s support!|612~620|deserves|+2|Trump|||
 
+1003995933540044800|1003995933540044800
+Tue Jun 05 13:44:18 +0000 2018
+[Trump]
+Vote for Congressman Devin Nunes, a true American Patriot the likes of which we rarely see in our modern day world....he truly loves our country and deserves everyone’s support!|463~467|Vote|0|Trump|||
+
 1003985427970314246|1003985427970314246
 Tue Jun 05 13:02:33 +0000 2018
 [Trump]
 In High Tax, High Crime California, be sure to get out and vote for Republican John Cox for Governor.
-He will make a BIG difference!|1065~1075|difference|+2|Trump|||
+He will make a BIG difference!|1065~1075|difference|+2|Trump|BIG|1061~1064|positive
 
-1003969399148118016|1003969399148118016
-Tue Jun 05 11:58:52 +0000 2018
+1003985427970314246|1003985427970314246
+Tue Jun 05 13:02:33 +0000 2018
 [Trump]
-Separating families at the Border is the fault of bad legislation passed by the Democrats.
-Border Security laws should be changed but the Dems can’t get their act together!
-Started the Wall.|1178~1183|fault|+2|Trump|||
+In High Tax, High Crime California, be sure to get out and vote for Republican John Cox for Governor.
+He will make a BIG difference!|991~994|get|0|Trump|||
 
 1003969399148118016|1003969399148118016
 Tue Jun 05 11:58:52 +0000 2018
@@ -53,12 +69,24 @@ Tue Jun 05 11:58:52 +0000 2018
 [Trump]
 Separating families at the Border is the fault of bad legislation passed by the Democrats.
 Border Security laws should be changed but the Dems can’t get their act together!
-Started the Wall.|1286~1308|get their act together|-2|Trump|||
+Started the Wall.|1296~1299|act|-2|Trump|||
+
+1003969399148118016|1003969399148118016
+Tue Jun 05 11:58:52 +0000 2018
+[Trump]
+Separating families at the Border is the fault of bad legislation passed by the Democrats.
+Border Security laws should be changed but the Dems can’t get their act together!
+Started the Wall.|1203~1209|passed|+2|Trump|fault|1178~1183|negative
 
 1003963157734453249|1003963157734453249
 Tue Jun 05 11:34:04 +0000 2018
 [Trump]
 Meeting in Singapore with North Korea will hopefully be the start of something big...we will soon see!|1621~1626|start|+1|Trump|||
+
+1003963157734453249|1003963157734453249
+Tue Jun 05 11:34:04 +0000 2018
+[Trump]
+Meeting in Singapore with North Korea will hopefully be the start of something big...we will soon see!|1659~1662|see|+1|Trump|||
 
 1003962584352030720|1003962584352030720
 Tue Jun 05 11:31:47 +0000 2018
@@ -76,7 +104,7 @@ So much time and money wasted, so many lives ruined...and Sessions knew better t
 Tue Jun 05 11:31:47 +0000 2018
 [Trump]
 The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn’t tell me he was going to recuse himself...I would have quickly picked someone else.
-So much time and money wasted, so many lives ruined...and Sessions knew better than most that there was No Collusion!|1858~1864|picked|+1|Trump|||
+So much time and money wasted, so many lives ruined...and Sessions knew better than most that there was No Collusion!|1858~1864|picked|-2|Trump|||
 
 1003962584352030720|1003962584352030720
 Tue Jun 05 11:31:47 +0000 2018
@@ -103,22 +131,6 @@ We will proudly be playing the National Anthem and other wonderful music celebra
 Honoring America!
 NFL, no escaping to Locker Rooms!|2402~2409|playing|+2|Trump|proudly|2391~2398|positive
 
-1003952348962619392|1003952348962619392
-Tue Jun 05 10:51:07 +0000 2018
-[Trump]
-The U.S. has an increased economic value of more than 7 Trillion Dollars since the Election.
-May be the best economy in the history of our country.
-Record Jobs numbers.
-Nice!|2712~2721|increased|+2|Trump|||
-
-1003952348962619392|1003952348962619392
-Tue Jun 05 10:51:07 +0000 2018
-[Trump]
-The U.S. has an increased economic value of more than 7 Trillion Dollars since the Election.
-May be the best economy in the history of our country.
-Record Jobs numbers.
-Nice!|2800~2804|best|+1|Trump|||
-
 1003832766511894528|1003832766511894528
 Tue Jun 05 02:55:56 +0000 2018
 [Trump]
@@ -141,17 +153,15 @@ Tue Jun 05 02:55:56 +0000 2018
 The Philadelphia Eagles Football Team was invited to the White House.
 Unfortunately, only a small number of players decided to come, and we canceled the event.
 Staying in the Locker Room for the playing of our National Anthem is as disrespectful to our country as kneeling.
-Sorry!|3485~3498|disrespectful|+2|Trump|||
+Sorry!|3295~3302|invited|+2|Trump|||
 
-1003738744061603843|1003738744061603843
-Mon Jun 04 20:42:19 +0000 2018
+1003832766511894528|1003832766511894528
+Tue Jun 05 02:55:56 +0000 2018
 [Trump]
-In many ways this is the greatest economy in the HISTORY of America and the best time EVER to look for a job!|3628~3635|economy|+2|Trump|greatest|3619~3627|positive
-
-1003738744061603843|1003738744061603843
-Mon Jun 04 20:42:19 +0000 2018
-[Trump]
-In many ways this is the greatest economy in the HISTORY of America and the best time EVER to look for a job!|3675~3679|time|+2|Trump|best|3670~3674|positive
+The Philadelphia Eagles Football Team was invited to the White House.
+Unfortunately, only a small number of players decided to come, and we canceled the event.
+Staying in the Locker Room for the playing of our National Anthem is as disrespectful to our country as kneeling.
+Sorry!|3413~3420|Staying|+2|Trump|||
 
 1003738642903420928|1003738642903420928
 Mon Jun 04 20:41:55 +0000 2018
@@ -167,13 +177,19 @@ The Fake News Media is desperate to distract from the economy and record setting
 Mon Jun 04 14:01:40 +0000 2018
 [Trump]
 The appointment of the Special Counsel is totally UNCONSTITUTIONAL!
-Despite that, we play the game because I, unlike the Democrats, have done nothing wrong!|4173~4189|UNCONSTITUTIONAL|+2|Trump|||
+Despite that, we play the game because I, unlike the Democrats, have done nothing wrong!|4273~4278|wrong|-2|Trump|||
 
 1003637916919320577|1003637916919320577
 Mon Jun 04 14:01:40 +0000 2018
 [Trump]
 The appointment of the Special Counsel is totally UNCONSTITUTIONAL!
-Despite that, we play the game because I, unlike the Democrats, have done nothing wrong!|4273~4278|wrong|-2|Trump|||
+Despite that, we play the game because I, unlike the Democrats, have done nothing wrong!|4127~4138|appointment|+2|Trump|UNCONSTITUTIONAL|4173~4189|negative
+
+1003637916919320577|1003637916919320577
+Mon Jun 04 14:01:40 +0000 2018
+[Trump]
+The appointment of the Special Counsel is totally UNCONSTITUTIONAL!
+Despite that, we play the game because I, unlike the Democrats, have done nothing wrong!|4208~4212|play|+2|Trump|||
 
 1003634405036961793|1003634405036961793
 Mon Jun 04 13:47:43 +0000 2018
@@ -209,17 +225,70 @@ Farmers have not been doing well for 15 years.
 Mexico, Canada, China and others have treated them unfairly.
 By the time I finish trade talks, that will change.
 Big trade barriers against U.S. farmers, and other businesses, will finally be broken.
-Massive trade deficits no longer!|4601~4609|deficits|-2|Trump|||
+Massive trade deficits no longer!|4425~4432|treated|+2|Trump|||
 
-1003624231408676864|1003624231408676864
-Mon Jun 04 13:07:17 +0000 2018
+1003634405036961793|1003634405036961793
+Mon Jun 04 13:47:43 +0000 2018
 [Trump]
-The appointment of the Special Councel is totally UNCONSTITUTIONAL!
-Despite that, we play the game because I, unlike the Democrats, have done nothing wrong!|4731~4747|UNCONSTITUTIONAL|+2|Trump|||
+Farmers have not been doing well for 15 years.
+Mexico, Canada, China and others have treated them unfairly.
+By the time I finish trade talks, that will change.
+Big trade barriers against U.S. farmers, and other businesses, will finally be broken.
+Massive trade deficits no longer!|4462~4468|finish|+2|Trump|||
 
 1003624231408676864|1003624231408676864
 Mon Jun 04 13:07:17 +0000 2018
 [Trump]
 The appointment of the Special Councel is totally UNCONSTITUTIONAL!
 Despite that, we play the game because I, unlike the Democrats, have done nothing wrong!|4831~4836|wrong|-2|Trump|||
+
+1003624231408676864|1003624231408676864
+Mon Jun 04 13:07:17 +0000 2018
+[Trump]
+The appointment of the Special Councel is totally UNCONSTITUTIONAL!
+Despite that, we play the game because I, unlike the Democrats, have done nothing wrong!|4685~4696|appointment|+2|Trump|UNCONSTITUTIONAL|4731~4747|negative
+
+1003624231408676864|1003624231408676864
+Mon Jun 04 13:07:17 +0000 2018
+[Trump]
+The appointment of the Special Councel is totally UNCONSTITUTIONAL!
+Despite that, we play the game because I, unlike the Democrats, have done nothing wrong!|4766~4770|play|+2|Trump|||
+
+1003987298072002565|1003987298072002565
+Tue Jun 05 13:09:59 +0000 2018
+[Trump]
+Get the vote out in California today for Rep. Kevin McCarthy and all of the great GOP candidates for Congress.
+Keep our country out of the hands of High Tax, High Crime Nancy Pelosi.|812~816|Keep|0|Trump|||
+
+1003987298072002565|1003987298072002565
+Tue Jun 05 13:09:59 +0000 2018
+[Trump]
+Get the vote out in California today for Rep. Kevin McCarthy and all of the great GOP candidates for Congress.
+Keep our country out of the hands of High Tax, High Crime Nancy Pelosi.|701~704|Get|0|Trump|||
+
+1003967400130285569|1003967400130285569
+Tue Jun 05 11:50:55 +0000 2018
+[Trump]
+....@NASCAR and Champion @MartinTruex_Jr were recently at the White House.
+It was a great day for a great sport!|1429~1433|were|+2|Trump|||
+
+1003960114989207552|1003960114989207552
+Tue Jun 05 11:21:58 +0000 2018
+[Trump]
+We have had many Championship teams recently at the White House including the Chicago Cubs, Houston Astros, Pittsburgh Penguins, New England Patriots, Alabama and Clemson National Champions, and many others.
+National Anthem &amp; more great music today at 3:00 P.M.|2065~2068|had|+2|Trump|||
+
+1003949263481696256|1003949263481696256
+Tue Jun 05 10:38:51 +0000 2018
+[Trump]
+What is taking so long with the Inspector General’s Report on Crooked Hillary and Slippery James Comey.
+Numerous delays.
+Hope Report is not being changed and made weaker!
+There are so many horrible things to tell, the public has the right to know.
+Transparency!|3077~3084|changed|-1|Trump|||
+
+1003738744061603843|1003738744061603843
+Mon Jun 04 20:42:19 +0000 2018
+[Trump]
+In many ways this is the greatest economy in the HISTORY of America and the best time EVER to look for a job!|3688~3692|look|0|Trump|best|3670~3674|positive
 

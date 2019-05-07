@@ -12,47 +12,19 @@ Mon Jul 16 05:23:50 +0000 2018
 [Trump]
 Received many calls from leaders of NATO countries thanking me for helping to bring them together and to get them focused on financial obligations, both present &amp; future.
 We had a truly great Summit that was inaccurately covered by much of the media.
-NATO is now strong &amp; rich!|112~120|thanking|+2|Trump|||
-
-1018727890345693184|1018727890345693184
-Mon Jul 16 05:23:50 +0000 2018
-[Trump]
-Received many calls from leaders of NATO countries thanking me for helping to bring them together and to get them focused on financial obligations, both present &amp; future.
-We had a truly great Summit that was inaccurately covered by much of the media.
-NATO is now strong &amp; rich!|128~135|helping|+2|leaders|||
-
-1018727890345693184|1018727890345693184
-Mon Jul 16 05:23:50 +0000 2018
-[Trump]
-Received many calls from leaders of NATO countries thanking me for helping to bring them together and to get them focused on financial obligations, both present &amp; future.
-We had a truly great Summit that was inaccurately covered by much of the media.
 NATO is now strong &amp; rich!|286~293|covered|+2|Trump|inaccurately|273~285|negative
 
-1018727890345693184|1018727890345693184
-Mon Jul 16 05:23:50 +0000 2018
+1018713940522622977|1018713940522622977
+Mon Jul 16 04:28:24 +0000 2018
 [Trump]
-Received many calls from leaders of NATO countries thanking me for helping to bring them together and to get them focused on financial obligations, both present &amp; future.
-We had a truly great Summit that was inaccurately covered by much of the media.
-NATO is now strong &amp; rich!|328~334|strong|+2|Trump|||
-
-1018727890345693184|1018727890345693184
-Mon Jul 16 05:23:50 +0000 2018
-[Trump]
-Received many calls from leaders of NATO countries thanking me for helping to bring them together and to get them focused on financial obligations, both present &amp; future.
-We had a truly great Summit that was inaccurately covered by much of the media.
-NATO is now strong &amp; rich!|341~345|rich|+2|Trump|||
+RT @SecPompeo: Landed in #Finland for #helsinki2018 where @POTUS &amp; Prez Putin are set to discuss US/Russian relations.
+POTUS meeting is in…|422~428|Landed|+2|@SecPompeo|||
 
 1018713940522622977|1018713940522622977
 Mon Jul 16 04:28:24 +0000 2018
 [Trump]
 RT @SecPompeo: Landed in #Finland for #helsinki2018 where @POTUS &amp; Prez Putin are set to discuss US/Russian relations.
-POTUS meeting is in…|422~428|Landed|+2|Trump|||
-
-1018713940522622977|1018713940522622977
-Mon Jul 16 04:28:24 +0000 2018
-[Trump]
-RT @SecPompeo: Landed in #Finland for #helsinki2018 where @POTUS &amp; Prez Putin are set to discuss US/Russian relations.
-POTUS meeting is in…|500~507|discuss|+1|Trump|||
+POTUS meeting is in…|500~507|discuss|+2|Trump|||
 
 1018713881802346497|1018713881802346497
 Mon Jul 16 04:28:10 +0000 2018
@@ -75,13 +47,7 @@ Additionally, congratulations to President Putin and Russia for putting on a tru
 Sun Jul 15 17:03:03 +0000 2018
 [Trump]
 Congratulations to France, who played extraordinary soccer, on winning the 2018 World Cup.
-Additionally, congratulations to President Putin and Russia for putting on a truly great World Cup Tournament -- one of the best ever!|967~977|putting on|+2|Trump|congratulations|917~932|positive
-
-1018530179549822977|1018530179549822977
-Sun Jul 15 16:18:12 +0000 2018
-[Trump]
-...know how to do is resist and obstruct!
-This is why there is such hatred and dissension in our country – but at some point, it will heal!|1232~1236|heal|+2|Trump|||
+Additionally, congratulations to President Putin and Russia for putting on a truly great World Cup Tournament -- one of the best ever!|967~974|putting|+2|Trump|congratulations|917~932|positive
 
 1018530179549822977|1018530179549822977
 Sun Jul 15 16:18:12 +0000 2018
@@ -95,11 +61,11 @@ Sun Jul 15 16:18:12 +0000 2018
 ...know how to do is resist and obstruct!
 This is why there is such hatred and dissension in our country – but at some point, it will heal!|1177~1187|dissension|+1|Trump|||
 
-1018530173006692352|1018530173006692352
-Sun Jul 15 16:18:11 +0000 2018
+1018530179549822977|1018530179549822977
+Sun Jul 15 16:18:12 +0000 2018
 [Trump]
-...over the years, I would return to criticism that it wasn’t good enough – that I should have gotten Saint Petersburg in addition!
-Much of our news media is indeed the enemy of the people and all the Dems...|1325~1331|return|-1|Trump|||
+...know how to do is resist and obstruct!
+This is why there is such hatred and dissension in our country – but at some point, it will heal!|1232~1236|heal|+2|Trump|||
 
 1018530173006692352|1018530173006692352
 Sun Jul 15 16:18:11 +0000 2018
@@ -111,19 +77,25 @@ Much of our news media is indeed the enemy of the people and all the Dems...|139
 Sun Jul 15 16:18:10 +0000 2018
 [Trump]
 Heading to Helsinki, Finland – looking forward to meeting with President Putin tomorrow.
-Unfortunately, no matter how well I do at the Summit, if I was given the great city of Moscow as retribution for all of the sins and evils committed by Russia...|1567~1574|Heading|+1|Trump|||
-
-1018530167902228480|1018530167902228480
-Sun Jul 15 16:18:10 +0000 2018
-[Trump]
-Heading to Helsinki, Finland – looking forward to meeting with President Putin tomorrow.
 Unfortunately, no matter how well I do at the Summit, if I was given the great city of Moscow as retribution for all of the sins and evils committed by Russia...|1617~1624|meeting|+2|Trump|looking forward|1598~1613|positive
 
 1018530167902228480|1018530167902228480
 Sun Jul 15 16:18:10 +0000 2018
 [Trump]
 Heading to Helsinki, Finland – looking forward to meeting with President Putin tomorrow.
-Unfortunately, no matter how well I do at the Summit, if I was given the great city of Moscow as retribution for all of the sins and evils committed by Russia...|1719~1724|given|-2|Trump|||
+Unfortunately, no matter how well I do at the Summit, if I was given the great city of Moscow as retribution for all of the sins and evils committed by Russia...|1567~1574|Heading|+2|Trump|||
+
+1018530167902228480|1018530167902228480
+Sun Jul 15 16:18:10 +0000 2018
+[Trump]
+Heading to Helsinki, Finland – looking forward to meeting with President Putin tomorrow.
+Unfortunately, no matter how well I do at the Summit, if I was given the great city of Moscow as retribution for all of the sins and evils committed by Russia...|1692~1694|do|+1|Trump|Unfortunately|1656~1669|negative
+
+1018530167902228480|1018530167902228480
+Sun Jul 15 16:18:10 +0000 2018
+[Trump]
+Heading to Helsinki, Finland – looking forward to meeting with President Putin tomorrow.
+Unfortunately, no matter how well I do at the Summit, if I was given the great city of Moscow as retribution for all of the sins and evils committed by Russia...|1719~1724|given|+1|Trump|||
 
 1018528420093878272|1018528420093878272
 Sun Jul 15 16:11:13 +0000 2018
@@ -144,12 +116,26 @@ Sun Jul 15 16:11:13 +0000 2018
 [Trump]
 There hasn’t been a missile or rocket fired in 9 months in North Korea, there have been no nuclear tests and we got back our hostages.
 Who knows how it will all turn out in the end, but why isn’t the Fake News talking about these wonderful facts?
+Because it is FAKE NEWS!|1990~1993|got|+2|Trump|||
+
+1018528420093878272|1018528420093878272
+Sun Jul 15 16:11:13 +0000 2018
+[Trump]
+There hasn’t been a missile or rocket fired in 9 months in North Korea, there have been no nuclear tests and we got back our hostages.
+Who knows how it will all turn out in the end, but why isn’t the Fake News talking about these wonderful facts?
+Because it is FAKE NEWS!|2039~2043|turn|0|Trump|||
+
+1018528420093878272|1018528420093878272
+Sun Jul 15 16:11:13 +0000 2018
+[Trump]
+There hasn’t been a missile or rocket fired in 9 months in North Korea, there have been no nuclear tests and we got back our hostages.
+Who knows how it will all turn out in the end, but why isn’t the Fake News talking about these wonderful facts?
 Because it is FAKE NEWS!|2088~2095|talking|-2|Trump|||
 
 1018490597865226245|1018490597865226245
 Sun Jul 15 13:40:55 +0000 2018
 [Trump]
-RT @realDonaldTrump: The stories you heard about the 12 Russians yesterday took place during the Obama Administration, not the Trump Admini…|2235~2242|stories|+2|Trump|||
+RT @realDonaldTrump: The stories you heard about the 12 Russians yesterday took place during the Obama Administration, not the Trump Admini…|2290~2295|place|+2|@realDonaldTrump|||
 
 1018490463244902400|1018490463244902400
 Sun Jul 15 13:40:23 +0000 2018
@@ -176,7 +162,7 @@ RT @Scavino45: “About 1-in-5 illegal alien adults crossing the United States-M
 Sun Jul 15 13:33:15 +0000 2018
 [Trump]
 RT @Scavino45: “Mike Pence op-ed: Trump White House phenomenally successful”
-https://t.co/L2WaPpxxgg|3185~3195|successful|+2|Mike Pence|||
+https://t.co/L2WaPpxxgg|3185~3195|successful|+2|@Scavino45|||
 
 1018488667474522112|1018488667474522112
 Sun Jul 15 13:33:15 +0000 2018
@@ -184,6 +170,13 @@ Sun Jul 15 13:33:15 +0000 2018
 RT @realDonaldTrump: These Russian individuals did their work during the Obama years.
 Why didn’t Obama do something about it?
 Because he t…|3338~3342|work|+2|@realDonaldTrump|||
+
+1018488667474522112|1018488667474522112
+Sun Jul 15 13:33:15 +0000 2018
+[Trump]
+RT @realDonaldTrump: These Russian individuals did their work during the Obama years.
+Why didn’t Obama do something about it?
+Because he t…|3387~3396|something|-2|Trump|||
 
 1018488661107617792|1018488661107617792
 Sun Jul 15 13:33:14 +0000 2018
@@ -227,21 +220,7 @@ Sat Jul 14 12:44:05 +0000 2018
 [Trump]
 Our prayers are with those affected by the flooding in Japan.
 We commend the rescue efforts and offer condolences to all who were injured or lost loved ones.
-https://t.co/AIgJMyT7qS|4013~4021|affected|+2|Trump|||
-
-1018113905716027393|1018113905716027393
-Sat Jul 14 12:44:05 +0000 2018
-[Trump]
-Our prayers are with those affected by the flooding in Japan.
-We commend the rescue efforts and offer condolences to all who were injured or lost loved ones.
-https://t.co/AIgJMyT7qS|4051~4058|commend|+2|Trump|||
-
-1018113905716027393|1018113905716027393
-Sat Jul 14 12:44:05 +0000 2018
-[Trump]
-Our prayers are with those affected by the flooding in Japan.
-We commend the rescue efforts and offer condolences to all who were injured or lost loved ones.
-https://t.co/AIgJMyT7qS|4082~4087|offer|+2|Trump|||
+https://t.co/AIgJMyT7qS|4029~4037|flooding|+2|Trump|||
 
 1018113905716027393|1018113905716027393
 Sat Jul 14 12:44:05 +0000 2018
@@ -257,13 +236,36 @@ Our prayers are with those affected by the flooding in Japan.
 We commend the rescue efforts and offer condolences to all who were injured or lost loved ones.
 https://t.co/AIgJMyT7qS|4127~4131|lost|+2|Trump|||
 
+1018113905716027393|1018113905716027393
+Sat Jul 14 12:44:05 +0000 2018
+[Trump]
+Our prayers are with those affected by the flooding in Japan.
+We commend the rescue efforts and offer condolences to all who were injured or lost loved ones.
+https://t.co/AIgJMyT7qS|4051~4058|commend|+2|Trump|||
+
 1018096402520518656|1018096402520518656
 Sat Jul 14 11:34:32 +0000 2018
 [Trump]
 ....Remember, it was Little Jeff Z and his people, who are told exactly what to say, who said I could not win the election in that “there was no way to 270” (over &amp; over again) in the Electoral College.
 I got 306!
 They were sooooo wrong in their election coverage.
-Still hurting!|4334~4337|win|-2|Jeff Z|||
+Still hurting!|4334~4337|win|-2|Little Jeff Z and his people|||
+
+1018096402520518656|1018096402520518656
+Sat Jul 14 11:34:32 +0000 2018
+[Trump]
+....Remember, it was Little Jeff Z and his people, who are told exactly what to say, who said I could not win the election in that “there was no way to 270” (over &amp; over again) in the Electoral College.
+I got 306!
+They were sooooo wrong in their election coverage.
+Still hurting!|4437~4440|got|+2|Trump|||
+
+1018096402520518656|1018096402520518656
+Sat Jul 14 11:34:32 +0000 2018
+[Trump]
+....Remember, it was Little Jeff Z and his people, who are told exactly what to say, who said I could not win the election in that “there was no way to 270” (over &amp; over again) in the Electoral College.
+I got 306!
+They were sooooo wrong in their election coverage.
+Still hurting!|4487~4495|coverage|+2|Trump|wrong|4463~4468|negative
 
 1018093807060045824|1018093807060045824
 Sat Jul 14 11:24:13 +0000 2018
@@ -281,5 +283,14 @@ So funny!
 I just checked out Fake News CNN, for the first time in a long time (they are dying in the ratings), to see if they covered my takedown yesterday of Jim Acosta (actually a nice guy).
 They didn’t!
 But they did say I already lost in my meeting with Putin.
-Fake News......|4805~4809|lost|+2|they|||
+Fake News......|4698~4705|covered|0|Trump|||
+
+1018093807060045824|1018093807060045824
+Sat Jul 14 11:24:13 +0000 2018
+[Trump]
+So funny!
+I just checked out Fake News CNN, for the first time in a long time (they are dying in the ratings), to see if they covered my takedown yesterday of Jim Acosta (actually a nice guy).
+They didn’t!
+But they did say I already lost in my meeting with Putin.
+Fake News......|4805~4809|lost|+2|Trump|||
 
