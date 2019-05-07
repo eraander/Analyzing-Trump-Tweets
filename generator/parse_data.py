@@ -171,7 +171,7 @@ class Parse():
         return results
         
 if __name__ == '__main__':
-    file_dir = 'data/annotator2'
+    file_dir = 'data/gold'
     file_dir = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', file_dir))
     
     parser = Parse()
