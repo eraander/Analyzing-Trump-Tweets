@@ -104,6 +104,7 @@ class Parse():
             f.write('annotation_id|tweet_content|event_span|event_text|event_confidence|source|emotion|emotion_span|emotion_value\n\n')
             for tweet_id in annotation:
                 tweet_content = annotation[tweet_id]['TEXT']
+                tweet_content = tweet_content.replace('|','-')
                 for event in annotation[tweet_id]:
                     if event != 'TEXT':
                         event_span = annotation[tweet_id][event]['event_text'][0]
