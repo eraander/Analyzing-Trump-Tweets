@@ -8,9 +8,12 @@ COSI 140B
 from sklearn.linear_model import LogisticRegression
 from sklearn.linear_model import Perceptron
 from sklearn.metrics import accuracy_score
+from sklearn.svm import SVC
 from sklearn.metrics import classification_report
 from sklearn.feature_extraction import DictVectorizer
+from sklearn.model_selection import train_test_split
 from operator import itemgetter
+import nltk
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
@@ -19,20 +22,22 @@ import numpy as np
 import os, re
 
 #
-negative_stems = set(['no', 'not', 'never', 't', 'don\'t', 'can\'t', 'arent', 'didnt', 'wouldnt', 'ever', 'doesnt',
-                      'without', 'lack', 'miss', 'forget', 'lose', 'least', 'less', 'waste'])
-# hyp_words = set(['would', 'if', 'could', 'couldve', 'wouldve', 'might', 'mightve', 'may'])
-# intensifiers = set(['most', 'very', 'extremely'])
+negative_stems = set(['no', 'not', 't', 'never', 'don\'t', 'can\'t', 'aren', 'didnt', 'wouldn', 'ever', 'shouldn',
+                      'without', 'lack', 'miss', 'couldn', 'isn', 'cannot', 'nt', 'didn', 'don'])
+auxiliaries = set(['will', 'shall', 'should', 'can', 'must', 'may', 'did', 'do', 'could', 'would', 'might', 'would',
+                   'want', 'if'])
 
-def keep_only_alpha(text):
+def keep_only_alpha(text, stemmer):
     #text = re.sub(r'\d+', '', text)
     text = re.sub(r'https?:\/\/.+', ' ', text)
     text = re.sub(r'[^A-Za-z]+', ' ', text)
-    text.lower()
-    # stop_words = set([word for word in stopwords.words('english') if word not in negative_stems.union(hyp_words)])
-    return [token for token in text.split()]
+    text = text.lower()
+    # bigrams = nltk.bigrams(word_t)
+    # print(bigrams)
+    return [token for token in word_tokenize(text)]
 
 def change_data(data_frame):
+    data_frame.is_copy = False
     data_frame.event_confidence[data_frame.event_confidence == '+2'] = 'pos'
     data_frame.event_confidence[data_frame.event_confidence == '+1'] = 'pos'
     data_frame.event_confidence[data_frame.event_confidence == '-1'] = 'neg'
@@ -54,82 +59,104 @@ def make_data_frame(dir_path):
             df1 = pd.concat([df1, df2])
     df1.reset_index(inplace=True)
     df1['event_text'].str.lower()
+    # df1.set_value('0', 'event_text',
     df1['type'] = 'train'
-    df1['type'][200:] = 'test'
-    print(df1)
-
     return df1
 
-def extract_feat_vocab(data_frame):
+def train_to_test(df1):
+    negative_entries = df1[df1['event_confidence'] == 'neg']
+    len_neg = len(negative_entries)
+    train_test_spl = int(0.23*len_neg)
+    negative_entries['type'][:train_test_spl] = 'test'
+    pos_sample = df1[df1['event_confidence'] == 'pos']
+    len_pos = len(pos_sample)
+    train_test_pos = int(0.27*len_pos)
+    pos_sample['type'][:train_test_pos] = 'test'
+
+    df2 = negative_entries.append(pos_sample)
+    negative_entries = df1[df1['event_confidence'] == 'neg']
+    neg_train = negative_entries[negative_entries['type'] == 'train']
+    return df2
+
+def extract_feat_vocab(data_frame, stemmer):
     feat_vocab = dict()
     for index, row in data_frame[data_frame['type'] == 'train'].iterrows():
         negative = 0
-        for token in keep_only_alpha(row['tweet_content']):
-            if token in row['event_text'].split():
-                feat_vocab['event_' + token] = feat_vocab.get(token, 0) + 1
-                continue
-            # main modifications conducted here
+        event = keep_only_alpha(row['event_text'], stemmer)
+        tokens = keep_only_alpha(row['tweet_content'], stemmer)
+        # print(tokens)
+        # print(event)
+        event_index = tokens.index(event[0])
+        event = tokens[event_index]
+        # print(event_index)
+        # print(event[0])
+        event_start = event_index - 6
+        if event_start < 0:
+            event_start = 0
+        tokens = tokens[event_start:event_index+2]
+        bigrams = nltk.bigrams(tokens)
+        key_tokens = [t for t in tokens if t in negative_stems or t in auxiliaries]
+        if not key_tokens:
+            tokens.append('likely_posit')
+        for token in tokens:
+            if token == event:
+                feat_vocab['ends_with_' + event[-2:]] = feat_vocab.get('ends_with_' + event[-2:], 0) + 1
+            unstemmed = token
+            token = stemmer.stem(token)
             if token in negative_stems:
-                negative = 1
-                continue
-            if token in row['emotion']:
-                feat_vocab['emotion_' + token] = feat_vocab.get(token, 0) + 1
-                emotion_value = row['emotion_value']
-                feat_vocab[emotion_value] = feat_vocab.get(token, 0) + 1
-                continue
-
-            if 0 < negative <= 5:
-                feat_vocab['not_' + token] = feat_vocab.get(token, 0) + 1
-                negative += 1
+                feat_vocab['neg_' + token] = feat_vocab.get('neg_' + token, 0) + 10
+            elif token in auxiliaries:
+                feat_vocab['aux_' + token] = feat_vocab.get('aux_' + token, 0) + 10
+            elif token == 'likely_posit':
+                feat_vocab['aux_null'] = feat_vocab.get('aux_null', 0) + 10
             else:
                 feat_vocab[token] = feat_vocab.get(token, 0) + 1
-                negative = 0
+            if token in row['emotion'].lower().split() or unstemmed in row['emotion'].lower().split():
+                feat_vocab['emotion_' + token] = feat_vocab.get('emotion_' + token, 0) + 1
+                emotion_value = row['emotion_value']
+                feat_vocab[emotion_value] = feat_vocab.get(emotion_value, 0) + 1
+        # if not row['emotion']:
+        #    feat_vocab['no_emotion'] = feat_vocab.get('no_emotion', 0) + 1
+        for (token_a, token_b) in bigrams:
+            if token_a in negative_stems or token_b in negative_stems:
+                if token_b in negative_stems:
+                    feat_vocab[token_a + '_' + token_b] = feat_vocab.get(token_a + '_' + token_b, 0) + 1
+                elif token_a in negative_stems:
+                    feat_vocab[token_a + '_' + token_b] = feat_vocab.get(token_a + '_' + token_b, 0) + 1
+                else:
+                    feat_vocab[token_a + '_' + token_b] = feat_vocab.get(token_a + '_' + token_b, 0) + 1
+            elif token_b in negative_stems:
+                feat_vocab[token_a + '_' + token_b] = feat_vocab.get(token_a + '_' + token_b, 0) + 1
+            else:
+                feat_vocab[token_a + '_' + token_b] = feat_vocab.get(token_a + '_' + token_b, 0) + 1
+            negative = 0
     return feat_vocab
 
 
 
-def select_features(feat_vocab, most_freq=3, least_freq=500):
+def select_features(feat_vocab, most_freq=1, least_freq=100):
     sorted_feat_vocab = sorted(feat_vocab.items(), key=itemgetter(1), reverse=True)
-    print(sorted_feat_vocab)
     feat_dict = dict(sorted_feat_vocab[most_freq:len(sorted_feat_vocab)-least_freq])
-    print(feat_dict)
     return set(feat_dict.keys())
 
-def featurize(data_frame, feat_vocab):
+def featurize(data_frame, feat_vocab, stemmer):
     cols = ['_type_', '_confidence_']
     cols.extend(list(feat_vocab))
     row_count = data_frame.shape[0]
-    print(row_count)
     feat_data_frame = pd.DataFrame(index=np.arange(row_count), columns=cols)
     feat_data_frame.fillna(0, inplace=True) #inplace: mutable
     for index, row in data_frame.iterrows():
-        print(index)
-        print(row)
         feat_data_frame.loc[index, '_type_'] = row['type']
         feat_data_frame.loc[index, '_confidence_'] = row['event_confidence']
-        for token in keep_only_alpha(row['tweet_content']):
+        for token in keep_only_alpha(row['tweet_content'], stemmer):
             if token in feat_vocab:
                 feat_data_frame.loc[index, token] += 1
     return feat_data_frame
 
 
 def vectorize(feature_csv, split='train'):
-    '''
-    note: the code to flip 20% of the labels is commented out
-    also includes code to slice the df (current code selects 500 rows)
-    '''
     df = pd.read_csv(feature_csv, encoding='latin1')
     df = df[df['_type_'] == split]
-    if split == 'train':
-        df = df.iloc[:200]
-        # to_update = df.sample(frac=0.2)
-        # for index, row in to_update.iterrows():
-        #    if row['_label_'] == 'pos':
-        #        row['_label_'] = 'neg'
-        #        print(row['_label_'])
-        #    else:
-        #        row['_label_'] == 'pos'
-        # df.update(to_update)
     df.fillna(0, inplace=True)
     data = list()
     for index, row in df.iterrows():
@@ -160,7 +187,10 @@ def test_model(X_test, y_test, model):
 def classify(feat_csv):
     X_train, y_train = vectorize(feat_csv)
     X_test, y_test = vectorize(feat_csv, split='test')
-    model = LogisticRegression(multi_class='multinomial', penalty='l2', solver='lbfgs', max_iter=200, verbose=1)
+    model = LogisticRegression(multi_class='multinomial', penalty='l2', solver='lbfgs', max_iter=500, verbose=1,
+                             class_weight='balanced')
+    # model = SVC(C=1.0, gamma='auto', class_weight='balanced')
+    # model = LogisticRegressionCV(cv=5, multi_class='multinomial', max_iter=800)
     model = train_model(X_train, y_train, model)
     accuracy, report = test_model(X_test, y_test, model)
     print (report)
@@ -169,18 +199,12 @@ if __name__ == '__main__':
     model_path = os.path.curdir
     df = make_data_frame(model_path)
     df = change_data(df)
-    feat_vocab = extract_feat_vocab(df)
-    print(feat_vocab)
-    selected_feat_vocab = select_features(feat_vocab)
-    '''
+    df = train_to_test(df)
     ps = PorterStemmer()
-    sent_dict = load_sentiment_dictionary(ps, 'subjclueslen1-HLTEMNLP05.tff')
-    feat_vocab = extract_feat_vocab(hw1_path, ps, sent_dict)
-    print(len(feat_vocab))
-    selected_feat_vocab = select_features(feat_vocab, 100, 10000)
-    print(len(selected_feat_vocab))
-    '''
-    feat_data_frame = featurize(df, selected_feat_vocab)
+    feat_vocab = extract_feat_vocab(df, ps)
+    # print(feat_vocab)
+    selected_feat_vocab = select_features(feat_vocab)
+    feat_data_frame = featurize(df, selected_feat_vocab, ps)
     featfile = os.path.join(os.path.curdir, 'features.csv')
     feat_data_frame.to_csv(featfile, encoding='latin1', index=False)
     classify('features.csv')

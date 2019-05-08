@@ -1,4 +1,4 @@
-annotation_id|tweet_content|event_text|event_confidence|source|emotion|emotion_value
+annotation_id|tweet_content|event_span|event_text|event_confidence|source|emotion|emotion_span|emotion_value
 
 977858212635594752|977858212635594752
 Sun Mar 25 10:42:20 +0000 2018
@@ -6,7 +6,7 @@ Sun Mar 25 10:42:20 +0000 2018
 Much can be done with the $1.6 Billion given to building and fixing the border wall.
 It is just a down payment.
 Work will start immediately.
-The rest of the money will come - and remember DACA, the Democrats abandoned you (but we will not)!|done|-1|Trump||
+The rest of the money will come - and remember DACA, the Democrats abandoned you (but we will not)!|172~176|Work|+2|Trump|||
 
 977858212635594752|977858212635594752
 Sun Mar 25 10:42:20 +0000 2018
@@ -14,7 +14,7 @@ Sun Mar 25 10:42:20 +0000 2018
 Much can be done with the $1.6 Billion given to building and fixing the border wall.
 It is just a down payment.
 Work will start immediately.
-The rest of the money will come - and remember DACA, the Democrats abandoned you (but we will not)!|Work|+2|Trump||
+The rest of the money will come - and remember DACA, the Democrats abandoned you (but we will not)!|228~232|come|+2|Trump|||
 
 977858212635594752|977858212635594752
 Sun Mar 25 10:42:20 +0000 2018
@@ -22,29 +22,21 @@ Sun Mar 25 10:42:20 +0000 2018
 Much can be done with the $1.6 Billion given to building and fixing the border wall.
 It is just a down payment.
 Work will start immediately.
-The rest of the money will come - and remember DACA, the Democrats abandoned you (but we will not)!|come|+2|Trump||
-
-977858212635594752|977858212635594752
-Sun Mar 25 10:42:20 +0000 2018
-[Trump]
-Much can be done with the $1.6 Billion given to building and fixing the border wall.
-It is just a down payment.
-Work will start immediately.
-The rest of the money will come - and remember DACA, the Democrats abandoned you (but we will not)!|abandoned|+2|Trump||
+The rest of the money will come - and remember DACA, the Democrats abandoned you (but we will not)!|268~277|abandoned|+2|Trump|||
 
 977855968364171264|977855968364171264
 Sun Mar 25 10:33:25 +0000 2018
 [Trump]
 Because of the $700 &amp; $716 Billion Dollars gotten to rebuild our Military, many jobs are created and our Military is again rich.
 Building a great Border Wall, with drugs (poison) and enemy combatants pouring into our Country, is all about National Defense.
-Build WALL through M!|created|+2|Trump||
+Build WALL through M!|453~460|created|+2|Trump|||
 
 977855968364171264|977855968364171264
 Sun Mar 25 10:33:25 +0000 2018
 [Trump]
 Because of the $700 &amp; $716 Billion Dollars gotten to rebuild our Military, many jobs are created and our Military is again rich.
 Building a great Border Wall, with drugs (poison) and enemy combatants pouring into our Country, is all about National Defense.
-Build WALL through M!|gotten|+2|Trump||
+Build WALL through M!|407~413|gotten|+2|Trump|||
 
 977850135697911808|977850135697911808
 Sun Mar 25 10:10:14 +0000 2018
@@ -52,7 +44,7 @@ Sun Mar 25 10:10:14 +0000 2018
 France honors a great hero.
 Officer died after bravely swapping places with hostage in ISIS related terror attack.
 So much bravery around the world constantly fighting radical Islamic terrorism.
-Even stronger measures needed, especially at borders!|honors|+2|Trump||
+Even stronger measures needed, especially at borders!|709~715|honors|+2|Trump|||
 
 977850135697911808|977850135697911808
 Sun Mar 25 10:10:14 +0000 2018
@@ -60,7 +52,7 @@ Sun Mar 25 10:10:14 +0000 2018
 France honors a great hero.
 Officer died after bravely swapping places with hostage in ISIS related terror attack.
 So much bravery around the world constantly fighting radical Islamic terrorism.
-Even stronger measures needed, especially at borders!|died|+2|Trump||
+Even stronger measures needed, especially at borders!|738~742|died|+2|Trump|||
 
 977850135697911808|977850135697911808
 Sun Mar 25 10:10:14 +0000 2018
@@ -68,28 +60,28 @@ Sun Mar 25 10:10:14 +0000 2018
 France honors a great hero.
 Officer died after bravely swapping places with hostage in ISIS related terror attack.
 So much bravery around the world constantly fighting radical Islamic terrorism.
-Even stronger measures needed, especially at borders!|swapping|+2|Trump|bravely|positive
+Even stronger measures needed, especially at borders!|757~765|swapping|+2|Trump|bravely|749~756|positive
 
 977585879651966980|977585879651966980
 Sat Mar 24 16:40:11 +0000 2018
 [Trump]
 Our thoughts and prayers are with the victims of the horrible attack in France yesterday, and we grieve the nation’s loss.
 We also condemn the violent actions of the attacker and anyone who would provide him support.
-We are with you @EmmanuelMacron!|grieve|+2|Trump||
+We are with you @EmmanuelMacron!|1107~1113|grieve|+2|Trump|||
 
 977585879651966980|977585879651966980
 Sat Mar 24 16:40:11 +0000 2018
 [Trump]
 Our thoughts and prayers are with the victims of the horrible attack in France yesterday, and we grieve the nation’s loss.
 We also condemn the violent actions of the attacker and anyone who would provide him support.
-We are with you @EmmanuelMacron!|condemn|+2|Trump||
+We are with you @EmmanuelMacron!|1141~1148|condemn|+2|Trump|||
 
 977585879651966980|977585879651966980
 Sat Mar 24 16:40:11 +0000 2018
 [Trump]
 Our thoughts and prayers are with the victims of the horrible attack in France yesterday, and we grieve the nation’s loss.
 We also condemn the violent actions of the attacker and anyone who would provide him support.
-We are with you @EmmanuelMacron!|provide|-1|Trump||
+We are with you @EmmanuelMacron!|1206~1213|provide|+1|Trump|||
 
 977319371277156352|977319371277156352
 Fri Mar 23 23:01:10 +0000 2018
@@ -97,7 +89,7 @@ Fri Mar 23 23:01:10 +0000 2018
 As a matter of National Security I've signed the Omnibus Spending Bill.
 I say to Congress: I will NEVER sign another bill like this again.
 To prevent this omnibus situation from ever happening again, I'm calling on Congress to give me a line-item veto for all govt spending bills!
-https://t.co/kYwMk5AE5k|signed|+2|Trump||
+https://t.co/kYwMk5AE5k|1357~1363|signed|+2|Trump|||
 
 977319371277156352|977319371277156352
 Fri Mar 23 23:01:10 +0000 2018
@@ -105,7 +97,7 @@ Fri Mar 23 23:01:10 +0000 2018
 As a matter of National Security I've signed the Omnibus Spending Bill.
 I say to Congress: I will NEVER sign another bill like this again.
 To prevent this omnibus situation from ever happening again, I'm calling on Congress to give me a line-item veto for all govt spending bills!
-https://t.co/kYwMk5AE5k|sign|-2|Trump||
+https://t.co/kYwMk5AE5k|1423~1427|sign|-2|Trump|||
 
 977319371277156352|977319371277156352
 Fri Mar 23 23:01:10 +0000 2018
@@ -113,7 +105,7 @@ Fri Mar 23 23:01:10 +0000 2018
 As a matter of National Security I've signed the Omnibus Spending Bill.
 I say to Congress: I will NEVER sign another bill like this again.
 To prevent this omnibus situation from ever happening again, I'm calling on Congress to give me a line-item veto for all govt spending bills!
-https://t.co/kYwMk5AE5k|give|-1|Trump||
+https://t.co/kYwMk5AE5k|1546~1550|give|+1|Trump|||
 
 977286489410240514|977286489410240514
 Fri Mar 23 20:50:30 +0000 2018
@@ -121,42 +113,50 @@ Fri Mar 23 20:50:30 +0000 2018
 Obama Administration legalized bump stocks.
 BAD IDEA.
 As I promised, today the Department of Justice will issue the rule banning BUMP STOCKS with a mandated comment period.
-We will BAN all devices that turn legal weapons into illegal machine guns.|legalized|+2|Trump|BAD IDEA|negative
+We will BAN all devices that turn legal weapons into illegal machine guns.|1704~1713|legalized|+2|Trump|BAD IDEA|1727~1735|negative
+
+977286489410240514|977286489410240514
+Fri Mar 23 20:50:30 +0000 2018
+[Trump]
+Obama Administration legalized bump stocks.
+BAD IDEA.
+As I promised, today the Department of Justice will issue the rule banning BUMP STOCKS with a mandated comment period.
+We will BAN all devices that turn legal weapons into illegal machine guns.|1864~1867|BAN|+2|Trump|||
 
 977221676697079808|977221676697079808
 Fri Mar 23 16:32:58 +0000 2018
 [Trump]
 News conference at the White House concerning the Omnibus Spending Bill.
-1:00 P.M.|conference|+2|Trump||
+1:00 P.M.|1995~2005|conference|+2|Trump|||
 
 977166887493799936|977166887493799936
 Fri Mar 23 12:55:15 +0000 2018
 [Trump]
-I am considering a VETO of the Omnibus Spending Bill based on the fact that the 800,000 plus DACA recipients have been totally abandoned by the Democrats (not even mentioned in Bill) and the BORDER WALL, which is desperately needed for our National Defense, is not fully funded.|VETO|-1|Trump||
+I am considering a VETO of the Omnibus Spending Bill based on the fact that the 800,000 plus DACA recipients have been totally abandoned by the Democrats (not even mentioned in Bill) and the BORDER WALL, which is desperately needed for our National Defense, is not fully funded.|2151~2155|VETO|+1|Trump|||
 
 977166887493799936|977166887493799936
 Fri Mar 23 12:55:15 +0000 2018
 [Trump]
-I am considering a VETO of the Omnibus Spending Bill based on the fact that the 800,000 plus DACA recipients have been totally abandoned by the Democrats (not even mentioned in Bill) and the BORDER WALL, which is desperately needed for our National Defense, is not fully funded.|funded|-2|Trump||
+I am considering a VETO of the Omnibus Spending Bill based on the fact that the 800,000 plus DACA recipients have been totally abandoned by the Democrats (not even mentioned in Bill) and the BORDER WALL, which is desperately needed for our National Defense, is not fully funded.|2403~2409|funded|-2|Trump|||
 
 977166887493799936|977166887493799936
 Fri Mar 23 12:55:15 +0000 2018
 [Trump]
-I am considering a VETO of the Omnibus Spending Bill based on the fact that the 800,000 plus DACA recipients have been totally abandoned by the Democrats (not even mentioned in Bill) and the BORDER WALL, which is desperately needed for our National Defense, is not fully funded.|abandoned|+2|Trump||
+I am considering a VETO of the Omnibus Spending Bill based on the fact that the 800,000 plus DACA recipients have been totally abandoned by the Democrats (not even mentioned in Bill) and the BORDER WALL, which is desperately needed for our National Defense, is not fully funded.|2259~2268|abandoned|+2|Trump|||
 
 977159683151712258|977159683151712258
 Fri Mar 23 12:26:37 +0000 2018
 [Trump]
 DACA was abandoned by the Democrats.
 Very unfair to them!
-Would have been tied to desperately needed Wall.|abandoned|+2|Trump||
+Would have been tied to desperately needed Wall.|2479~2488|abandoned|+2|Trump|||
 
 977159683151712258|977159683151712258
 Fri Mar 23 12:26:37 +0000 2018
 [Trump]
 DACA was abandoned by the Democrats.
 Very unfair to them!
-Would have been tied to desperately needed Wall.|tied|-2|Trump||
+Would have been tied to desperately needed Wall.|2544~2548|tied|-2|Trump|||
 
 977124622285066240|977124622285066240
 Fri Mar 23 10:07:18 +0000 2018
@@ -164,7 +164,7 @@ Fri Mar 23 10:07:18 +0000 2018
 House Intelligence Committee votes to release final report.
 FINDINGS: (1) No evidence provided of Collusion between Trump Campaign &amp; Russia.
 (2)  The Obama Administrations Post election response was insufficient.
-(3) Clapper provided inconsistent testimony on media contacts.|Collusion|-2|House Intelligence Committee||
+(3) Clapper provided inconsistent testimony on media contacts.|2734~2743|Collusion|-2|Trump|||
 
 977124622285066240|977124622285066240
 Fri Mar 23 10:07:18 +0000 2018
@@ -172,7 +172,7 @@ Fri Mar 23 10:07:18 +0000 2018
 House Intelligence Committee votes to release final report.
 FINDINGS: (1) No evidence provided of Collusion between Trump Campaign &amp; Russia.
 (2)  The Obama Administrations Post election response was insufficient.
-(3) Clapper provided inconsistent testimony on media contacts.|response|+1|House Intelligence Committee||
+(3) Clapper provided inconsistent testimony on media contacts.|2826~2834|response|+2|Trump|||
 
 977124622285066240|977124622285066240
 Fri Mar 23 10:07:18 +0000 2018
@@ -180,7 +180,15 @@ Fri Mar 23 10:07:18 +0000 2018
 House Intelligence Committee votes to release final report.
 FINDINGS: (1) No evidence provided of Collusion between Trump Campaign &amp; Russia.
 (2)  The Obama Administrations Post election response was insufficient.
-(3) Clapper provided inconsistent testimony on media contacts.|provided|+2|House Intelligence Committee||
+(3) Clapper provided inconsistent testimony on media contacts.|2865~2873|provided|+2|Trump|||
+
+977124622285066240|977124622285066240
+Fri Mar 23 10:07:18 +0000 2018
+[Trump]
+House Intelligence Committee votes to release final report.
+FINDINGS: (1) No evidence provided of Collusion between Trump Campaign &amp; Russia.
+(2)  The Obama Administrations Post election response was insufficient.
+(3) Clapper provided inconsistent testimony on media contacts.|2665~2670|votes|+2|Trump|||
 
 976948306927607810|976948306927607810
 Thu Mar 22 22:26:41 +0000 2018
@@ -188,7 +196,7 @@ Thu Mar 22 22:26:41 +0000 2018
 I am pleased to announce that, effective 4/9/18, @AmbJohnBolton will be my new National Security Advisor.
 I am very thankful for the service of General H.R.
 McMaster who has done an outstanding job &amp; will always remain my friend.
-There will be an official contact handover on 4/9.|announce|+2|Trump|pleased|positive
+There will be an official contact handover on 4/9.|2991~2999|announce|+2|Trump|pleased|2980~2987|positive
 
 976948306927607810|976948306927607810
 Thu Mar 22 22:26:41 +0000 2018
@@ -196,7 +204,7 @@ Thu Mar 22 22:26:41 +0000 2018
 I am pleased to announce that, effective 4/9/18, @AmbJohnBolton will be my new National Security Advisor.
 I am very thankful for the service of General H.R.
 McMaster who has done an outstanding job &amp; will always remain my friend.
-There will be an official contact handover on 4/9.|job|+2|Trump|outstanding|positive
+There will be an official contact handover on 4/9.|3169~3172|job|+2|Trump|outstanding|3157~3168|positive
 
 976948306927607810|976948306927607810
 Thu Mar 22 22:26:41 +0000 2018
@@ -204,72 +212,72 @@ Thu Mar 22 22:26:41 +0000 2018
 I am pleased to announce that, effective 4/9/18, @AmbJohnBolton will be my new National Security Advisor.
 I am very thankful for the service of General H.R.
 McMaster who has done an outstanding job &amp; will always remain my friend.
-There will be an official contact handover on 4/9.|remain|+2|Trump||
+There will be an official contact handover on 4/9.|3191~3197|remain|+2|Trump|||
 
 976891486510907393|976891486510907393
 Thu Mar 22 18:40:54 +0000 2018
 [Trump]
 As a candidate, I pledged that if elected I would use every lawful tool to combat unfair trade, protect American workers, and defend our national security.
 Today, we took another critical step to fulfill that commitment.
-https://t.co/7NBI0Dibmx https://t.co/nmzqos3BUA|pledged|+2|Trump||
+https://t.co/7NBI0Dibmx https://t.co/nmzqos3BUA|3337~3344|pledged|+2|Trump|||
 
 976891486510907393|976891486510907393
 Thu Mar 22 18:40:54 +0000 2018
 [Trump]
 As a candidate, I pledged that if elected I would use every lawful tool to combat unfair trade, protect American workers, and defend our national security.
 Today, we took another critical step to fulfill that commitment.
-https://t.co/7NBI0Dibmx https://t.co/nmzqos3BUA|combat|+1|Trump||
+https://t.co/7NBI0Dibmx https://t.co/nmzqos3BUA|3394~3400|combat|+1|Trump|||
 
 976891486510907393|976891486510907393
 Thu Mar 22 18:40:54 +0000 2018
 [Trump]
 As a candidate, I pledged that if elected I would use every lawful tool to combat unfair trade, protect American workers, and defend our national security.
 Today, we took another critical step to fulfill that commitment.
-https://t.co/7NBI0Dibmx https://t.co/nmzqos3BUA|protect|+1|Trump||
+https://t.co/7NBI0Dibmx https://t.co/nmzqos3BUA|3415~3422|protect|+1|Trump|||
 
 976891486510907393|976891486510907393
 Thu Mar 22 18:40:54 +0000 2018
 [Trump]
 As a candidate, I pledged that if elected I would use every lawful tool to combat unfair trade, protect American workers, and defend our national security.
 Today, we took another critical step to fulfill that commitment.
-https://t.co/7NBI0Dibmx https://t.co/nmzqos3BUA|defend|+1|Trump||
+https://t.co/7NBI0Dibmx https://t.co/nmzqos3BUA|3445~3451|defend|+1|Trump|||
 
 976891486510907393|976891486510907393
 Thu Mar 22 18:40:54 +0000 2018
 [Trump]
 As a candidate, I pledged that if elected I would use every lawful tool to combat unfair trade, protect American workers, and defend our national security.
 Today, we took another critical step to fulfill that commitment.
-https://t.co/7NBI0Dibmx https://t.co/nmzqos3BUA|took|+2|Trump||
+https://t.co/7NBI0Dibmx https://t.co/nmzqos3BUA|3485~3489|took|+2|Trump|||
 
 976770619424563200|976770619424563200
 Thu Mar 22 10:40:37 +0000 2018
 [Trump]
 Remember when they were saying, during the campaign, that Donald Trump is giving great speeches and drawing big crowds, but he is spending much less money and not using social media as well as Crooked Hillary’s large and highly sophisticated staff.
-Well, not saying that anymore!|giving|+2|they||
+Well, not saying that anymore!|3843~3849|giving|+2|they|||
 
 976770619424563200|976770619424563200
 Thu Mar 22 10:40:37 +0000 2018
 [Trump]
 Remember when they were saying, during the campaign, that Donald Trump is giving great speeches and drawing big crowds, but he is spending much less money and not using social media as well as Crooked Hillary’s large and highly sophisticated staff.
-Well, not saying that anymore!|drawing|+2|they||
+Well, not saying that anymore!|3869~3876|drawing|+2|they|||
 
 976770619424563200|976770619424563200
 Thu Mar 22 10:40:37 +0000 2018
 [Trump]
 Remember when they were saying, during the campaign, that Donald Trump is giving great speeches and drawing big crowds, but he is spending much less money and not using social media as well as Crooked Hillary’s large and highly sophisticated staff.
-Well, not saying that anymore!|spending|-1|they||
+Well, not saying that anymore!|3899~3907|spending|+2|they|||
 
 976770619424563200|976770619424563200
 Thu Mar 22 10:40:37 +0000 2018
 [Trump]
 Remember when they were saying, during the campaign, that Donald Trump is giving great speeches and drawing big crowds, but he is spending much less money and not using social media as well as Crooked Hillary’s large and highly sophisticated staff.
-Well, not saying that anymore!|using|-2|they||
+Well, not saying that anymore!|3932~3937|using|-2|they|||
 
 976770619424563200|976770619424563200
 Thu Mar 22 10:40:37 +0000 2018
 [Trump]
 Remember when they were saying, during the campaign, that Donald Trump is giving great speeches and drawing big crowds, but he is spending much less money and not using social media as well as Crooked Hillary’s large and highly sophisticated staff.
-Well, not saying that anymore!|saying|-2|Trump||
+Well, not saying that anymore!|4028~4034|saying|-2|Trump|||
 
 976765417908776963|976765417908776963
 Thu Mar 22 10:19:57 +0000 2018
@@ -277,7 +285,7 @@ Thu Mar 22 10:19:57 +0000 2018
 Crazy Joe Biden is trying to act like a tough guy.
 Actually, he is weak, both mentally and physically, and yet he threatens me, for the second time, with physical assault.
 He doesn’t know me, but he would go down fast and hard, crying all the way.
-Don’t threaten people Joe!|act|-1|Trump||
+Don’t threaten people Joe!|4137~4140|act|+1|Trump|||
 
 976765417908776963|976765417908776963
 Thu Mar 22 10:19:57 +0000 2018
@@ -285,7 +293,7 @@ Thu Mar 22 10:19:57 +0000 2018
 Crazy Joe Biden is trying to act like a tough guy.
 Actually, he is weak, both mentally and physically, and yet he threatens me, for the second time, with physical assault.
 He doesn’t know me, but he would go down fast and hard, crying all the way.
-Don’t threaten people Joe!|threatens|+2|Trump||
+Don’t threaten people Joe!|4222~4231|threatens|+2|Trump|||
 
 976765417908776963|976765417908776963
 Thu Mar 22 10:19:57 +0000 2018
@@ -293,7 +301,7 @@ Thu Mar 22 10:19:57 +0000 2018
 Crazy Joe Biden is trying to act like a tough guy.
 Actually, he is weak, both mentally and physically, and yet he threatens me, for the second time, with physical assault.
 He doesn’t know me, but he would go down fast and hard, crying all the way.
-Don’t threaten people Joe!|go down|-2|Trump||
+Don’t threaten people Joe!|4313~4320|go down|-2|Trump|||
 
 976765417908776963|976765417908776963
 Thu Mar 22 10:19:57 +0000 2018
@@ -301,92 +309,101 @@ Thu Mar 22 10:19:57 +0000 2018
 Crazy Joe Biden is trying to act like a tough guy.
 Actually, he is weak, both mentally and physically, and yet he threatens me, for the second time, with physical assault.
 He doesn’t know me, but he would go down fast and hard, crying all the way.
-Don’t threaten people Joe!|crying|-2|Trump||
+Don’t threaten people Joe!|4336~4342|crying|-2|Trump|||
 
 976655903729610752|976655903729610752
 Thu Mar 22 03:04:47 +0000 2018
 [Trump]
 Democrats refused to take care of DACA.
 Would have been so easy, but they just didn’t care.
-I had to fight for Military and start of Wall.|take care of|-2|Trump||
+I had to fight for Military and start of Wall.|4468~4472|care|-2|Trump|||
 
 976655903729610752|976655903729610752
 Thu Mar 22 03:04:47 +0000 2018
 [Trump]
 Democrats refused to take care of DACA.
 Would have been so easy, but they just didn’t care.
-I had to fight for Military and start of Wall.|fight|+2|Trump||
+I had to fight for Military and start of Wall.|4543~4548|fight|+2|Trump|||
 
 976654851684945920|976654851684945920
 Thu Mar 22 03:00:36 +0000 2018
 [Trump]
 Got $1.6 Billion to start Wall on Southern Border, rest will be forthcoming.
 Most importantly, got $700 Billion to rebuild our Military, $716 Billion next year...most ever.
-Had to waste money on Dem giveaways in order to take care of military pay increase and new equipment.|start|+2|Trump||
+Had to waste money on Dem giveaways in order to take care of military pay increase and new equipment.|4704~4715|forthcoming|+2|Trump|||
 
 976654851684945920|976654851684945920
 Thu Mar 22 03:00:36 +0000 2018
 [Trump]
 Got $1.6 Billion to start Wall on Southern Border, rest will be forthcoming.
 Most importantly, got $700 Billion to rebuild our Military, $716 Billion next year...most ever.
-Had to waste money on Dem giveaways in order to take care of military pay increase and new equipment.|forthcoming|+2|Trump||
+Had to waste money on Dem giveaways in order to take care of military pay increase and new equipment.|4820~4825|waste|+2|Trump|||
 
 976654851684945920|976654851684945920
 Thu Mar 22 03:00:36 +0000 2018
 [Trump]
 Got $1.6 Billion to start Wall on Southern Border, rest will be forthcoming.
 Most importantly, got $700 Billion to rebuild our Military, $716 Billion next year...most ever.
-Had to waste money on Dem giveaways in order to take care of military pay increase and new equipment.|Got|+2|Trump||
+Had to waste money on Dem giveaways in order to take care of military pay increase and new equipment.|4866~4870|care|+2|Trump|||
 
 976654851684945920|976654851684945920
 Thu Mar 22 03:00:36 +0000 2018
 [Trump]
 Got $1.6 Billion to start Wall on Southern Border, rest will be forthcoming.
 Most importantly, got $700 Billion to rebuild our Military, $716 Billion next year...most ever.
-Had to waste money on Dem giveaways in order to take care of military pay increase and new equipment.|waste|+2|Trump||
+Had to waste money on Dem giveaways in order to take care of military pay increase and new equipment.|4640~4643|Got|+2|Trump|||
 
-976654851684945920|976654851684945920
-Thu Mar 22 03:00:36 +0000 2018
+976532956557737984|976532956557737984
+Wed Mar 21 18:56:14 +0000 2018
 [Trump]
-Got $1.6 Billion to start Wall on Southern Border, rest will be forthcoming.
-Most importantly, got $700 Billion to rebuild our Military, $716 Billion next year...most ever.
-Had to waste money on Dem giveaways in order to take care of military pay increase and new equipment.|take care of|+2|Trump||
+I called President Putin of Russia to congratulate him on his election victory (in past, Obama called him also).
+The Fake News Media is crazed because they wanted me to excoriate him.
+They are wrong!
+Getting along with Russia (and others) is a good thing, not a bad thing.......|5307~5313|called|+2|Trump|||
+
+976532956557737984|976532956557737984
+Wed Mar 21 18:56:14 +0000 2018
+[Trump]
+I called President Putin of Russia to congratulate him on his election victory (in past, Obama called him also).
+The Fake News Media is crazed because they wanted me to excoriate him.
+They are wrong!
+Getting along with Russia (and others) is a good thing, not a bad thing.......|5343~5355|congratulate|+2|Trump|||
+
+976532956557737984|976532956557737984
+Wed Mar 21 18:56:14 +0000 2018
+[Trump]
+I called President Putin of Russia to congratulate him on his election victory (in past, Obama called him also).
+The Fake News Media is crazed because they wanted me to excoriate him.
+They are wrong!
+Getting along with Russia (and others) is a good thing, not a bad thing.......|5474~5483|excoriate|-2|Trump|||
+
+976532956557737984|976532956557737984
+Wed Mar 21 18:56:14 +0000 2018
+[Trump]
+I called President Putin of Russia to congratulate him on his election victory (in past, Obama called him also).
+The Fake News Media is crazed because they wanted me to excoriate him.
+They are wrong!
+Getting along with Russia (and others) is a good thing, not a bad thing.......|5505~5518|Getting along|+2|Trump|good|5549~5553|positive
 
 976535330835836929|976535330835836929
 Wed Mar 21 19:05:40 +0000 2018
 [Trump]
 .....They can help solve problems with North Korea, Syria, Ukraine, ISIS, Iran and even the coming Arms Race.
 Bush tried to get along, but didn’t have the “smarts.” Obama and Clinton tried, but didn’t have the energy or chemistry (remember RESET).
-PEACE THROUGH STRENGTH!|solve|-2|Trump||
+PEACE THROUGH STRENGTH!|5098~5107|get along|-2|Trump|||
 
-976532956557737984|976532956557737984
-Wed Mar 21 18:56:14 +0000 2018
+976535330835836929|976535330835836929
+Wed Mar 21 19:05:40 +0000 2018
 [Trump]
-I called President Putin of Russia to congratulate him on his election victory (in past, Obama called him also).
-The Fake News Media is crazed because they wanted me to excoriate him.
-They are wrong!
-Getting along with Russia (and others) is a good thing, not a bad thing.......|called|+2|Trump||
+.....They can help solve problems with North Korea, Syria, Ukraine, ISIS, Iran and even the coming Arms Race.
+Bush tried to get along, but didn’t have the “smarts.” Obama and Clinton tried, but didn’t have the energy or chemistry (remember RESET).
+PEACE THROUGH STRENGTH!|5157~5162|tried|+2|Trump|||
 
-976532956557737984|976532956557737984
-Wed Mar 21 18:56:14 +0000 2018
+976420417090015232|976420417090015232
+Wed Mar 21 11:29:03 +0000 2018
 [Trump]
-I called President Putin of Russia to congratulate him on his election victory (in past, Obama called him also).
-The Fake News Media is crazed because they wanted me to excoriate him.
-They are wrong!
-Getting along with Russia (and others) is a good thing, not a bad thing.......|congratulate|+2|Trump||
+“Special Council is told to find crimes, whether a crime exists or not.
+I was opposed to the selection of Mueller to be Special Council.
+I am still opposed to it.
+I think President Trump was right when he said there never should have been a Special Council appointed because.....|5663~5667|told|+2|Trump|||
 
-976532956557737984|976532956557737984
-Wed Mar 21 18:56:14 +0000 2018
-[Trump]
-I called President Putin of Russia to congratulate him on his election victory (in past, Obama called him also).
-The Fake News Media is crazed because they wanted me to excoriate him.
-They are wrong!
-Getting along with Russia (and others) is a good thing, not a bad thing.......|excoriate|-2|Trump||
-
-976532956557737984|976532956557737984
-Wed Mar 21 18:56:14 +0000 2018
-[Trump]
-I called President Putin of Russia to congratulate him on his election victory (in past, Obama called him also).
-The Fake News Media is crazed because they wanted me to excoriate him.
-They are wrong!
-Getting along with Russia (and others) is a good thing, not a bad thing.......|Getting along|0|Trump|good|positive
