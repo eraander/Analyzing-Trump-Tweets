@@ -13,7 +13,7 @@ The output of the file contains following fileds:
 """
 
 import xml.etree.ElementTree as et
-import os
+import os, re
 from collections import defaultdict
 
 class Parse():
@@ -123,7 +123,7 @@ class Parse():
                             emotion_value = annotation[tweet_id][event]['emotion'][2]
                         else:
                             emotion = ''
-                            
+                        tweet_content = re.sub('\|', '', tweet_content)    
                         f.write(tweet_id + '|' + tweet_content + '|' + event_span + '|' + event_text + '|' + event_confidence + '|' + source + '|' + emotion + '|' + emotion_span + '|' + emotion_value + '\n\n')
         
         
